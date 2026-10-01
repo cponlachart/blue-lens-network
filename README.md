@@ -4,7 +4,7 @@ Interactive directory and expertise network for the **Reinventing the Blue Lens*
 
 Developed for the Faculty of Environmental Management, PSU, and the Coastal Oceanography and Climate Change Research Center (COCC).
 
-**Live site:** https://OWNER.github.io/blue-lens-network/
+**Live site:** https://cponlachart.github.io/blue-lens-network/
 
 ## Features
 - Search researchers by name, expertise, institution or faculty. Small typos still match.
