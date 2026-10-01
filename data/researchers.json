@@ -45,7 +45,19 @@
      "t": "Recommender Systems",
      "n": 3
     }
-   ]
+   ],
+   "absCov": [
+    29,
+    36
+   ],
+   "methods": [
+    {
+     "t": "Machine learning & AI",
+     "n": 3
+    }
+   ],
+   "areas": [],
+   "ecos": []
   },
   {
    "id": 2,
@@ -135,6 +147,27 @@
      "t": "Image Denoising",
      "n": 10
     }
+   ],
+   "absCov": [
+    54,
+    75
+   ],
+   "methods": [
+    {
+     "t": "Machine learning & AI",
+     "n": 43
+    },
+    {
+     "t": "Satellite remote sensing",
+     "n": 25
+    }
+   ],
+   "areas": [],
+   "ecos": [
+    {
+     "t": "Mangroves",
+     "n": 3
+    }
    ]
   },
   {
@@ -179,6 +212,52 @@
     {
      "t": "Tropical Cyclones",
      "n": 5
+    }
+   ],
+   "absCov": [
+    53,
+    88
+   ],
+   "methods": [
+    {
+     "t": "Paleoclimate & paleotsunami proxies",
+     "n": 49
+    },
+    {
+     "t": "Sediment cores & dating",
+     "n": 15
+    },
+    {
+     "t": "Numerical & hydrodynamic modelling",
+     "n": 14
+    },
+    {
+     "t": "Field surveys & transects",
+     "n": 6
+    },
+    {
+     "t": "LiDAR",
+     "n": 4
+    }
+   ],
+   "areas": [
+    {
+     "t": "Japan",
+     "n": 42
+    }
+   ],
+   "ecos": [
+    {
+     "t": "Coral reefs",
+     "n": 10
+    },
+    {
+     "t": "Beaches & sandy shores",
+     "n": 6
+    },
+    {
+     "t": "Shelf seas & open ocean",
+     "n": 4
     }
    ]
   },
@@ -236,6 +315,56 @@
      "t": "Nutrient Cycling",
      "n": 15
     }
+   ],
+   "absCov": [
+    100,
+    194
+   ],
+   "methods": [
+    {
+     "t": "Numerical & hydrodynamic modelling",
+     "n": 33
+    },
+    {
+     "t": "Machine learning & AI",
+     "n": 13
+    },
+    {
+     "t": "Satellite remote sensing",
+     "n": 10
+    }
+   ],
+   "areas": [
+    {
+     "t": "Japan",
+     "n": 64
+    },
+    {
+     "t": "China",
+     "n": 59
+    },
+    {
+     "t": "South China Sea",
+     "n": 13
+    },
+    {
+     "t": "Taiwan",
+     "n": 9
+    }
+   ],
+   "ecos": [
+    {
+     "t": "Shelf seas & open ocean",
+     "n": 58
+    },
+    {
+     "t": "Rivers, lakes & wetlands",
+     "n": 27
+    },
+    {
+     "t": "Estuaries",
+     "n": 10
+    }
    ]
   },
   {
@@ -289,6 +418,35 @@
      "t": "Disease Resistance",
      "n": 14
     }
+   ],
+   "absCov": [
+    38,
+    52
+   ],
+   "methods": [
+    {
+     "t": "Quantitative genetics & genomic selection",
+     "n": 34
+    },
+    {
+     "t": "Genomics & sequencing",
+     "n": 22
+    },
+    {
+     "t": "Machine learning & AI",
+     "n": 6
+    }
+   ],
+   "areas": [],
+   "ecos": [
+    {
+     "t": "Aquaculture systems",
+     "n": 33
+    },
+    {
+     "t": "Rivers, lakes & wetlands",
+     "n": 10
+    }
    ]
   },
   {
@@ -337,6 +495,48 @@
      "t": "Nanoplastics",
      "n": 10
     }
+   ],
+   "absCov": [
+    42,
+    138
+   ],
+   "methods": [
+    {
+     "t": "Biomarkers & ecotoxicology",
+     "n": 14
+    },
+    {
+     "t": "Machine learning & AI",
+     "n": 5
+    },
+    {
+     "t": "Genomics & sequencing",
+     "n": 4
+    },
+    {
+     "t": "Controlled experiments & mesocosms",
+     "n": 3
+    }
+   ],
+   "areas": [
+    {
+     "t": "China",
+     "n": 18
+    }
+   ],
+   "ecos": [
+    {
+     "t": "Rivers, lakes & wetlands",
+     "n": 28
+    },
+    {
+     "t": "Estuaries",
+     "n": 12
+    },
+    {
+     "t": "Urban areas",
+     "n": 4
+    }
    ]
   },
   {
@@ -383,6 +583,40 @@
     {
      "t": "Sea Surface Temperature",
      "n": 10
+    }
+   ],
+   "absCov": [
+    35,
+    73
+   ],
+   "methods": [
+    {
+     "t": "Paleoclimate & paleotsunami proxies",
+     "n": 25
+    },
+    {
+     "t": "Stable isotopes",
+     "n": 5
+    }
+   ],
+   "areas": [
+    {
+     "t": "Red Sea",
+     "n": 5
+    },
+    {
+     "t": "Andaman Sea (Thailand)",
+     "n": 3
+    }
+   ],
+   "ecos": [
+    {
+     "t": "Coral reefs",
+     "n": 50
+    },
+    {
+     "t": "Shelf seas & open ocean",
+     "n": 3
     }
    ]
   },
@@ -439,6 +673,40 @@
      "t": "Symbiodinium",
      "n": 8
     }
+   ],
+   "absCov": [
+    28,
+    45
+   ],
+   "methods": [
+    {
+     "t": "Cryopreservation",
+     "n": 29
+    },
+    {
+     "t": "Biomarkers & ecotoxicology",
+     "n": 3
+    },
+    {
+     "t": "Genomics & sequencing",
+     "n": 3
+    }
+   ],
+   "areas": [
+    {
+     "t": "Taiwan",
+     "n": 4
+    }
+   ],
+   "ecos": [
+    {
+     "t": "Coral reefs",
+     "n": 40
+    },
+    {
+     "t": "Aquaculture systems",
+     "n": 4
+    }
    ]
   },
   {
@@ -492,6 +760,64 @@
      "t": "Drought",
      "n": 7
     }
+   ],
+   "absCov": [
+    106,
+    176
+   ],
+   "methods": [
+    {
+     "t": "Satellite remote sensing",
+     "n": 104
+    },
+    {
+     "t": "Machine learning & AI",
+     "n": 30
+    },
+    {
+     "t": "Solar-induced chlorophyll fluorescence",
+     "n": 18
+    },
+    {
+     "t": "Carbon stock assessment",
+     "n": 7
+    }
+   ],
+   "areas": [
+    {
+     "t": "Australia",
+     "n": 56
+    },
+    {
+     "t": "China",
+     "n": 9
+    },
+    {
+     "t": "Southeast Asia (regional)",
+     "n": 4
+    },
+    {
+     "t": "Andaman Sea (Thailand)",
+     "n": 4
+    }
+   ],
+   "ecos": [
+    {
+     "t": "Tropical forests",
+     "n": 21
+    },
+    {
+     "t": "Agricultural land",
+     "n": 17
+    },
+    {
+     "t": "Urban areas",
+     "n": 17
+    },
+    {
+     "t": "Mangroves",
+     "n": 9
+    }
    ]
   },
   {
@@ -539,6 +865,60 @@
     },
     {
      "t": "Microplastics",
+     "n": 3
+    }
+   ],
+   "absCov": [
+    47,
+    56
+   ],
+   "methods": [
+    {
+     "t": "Carbon stock assessment",
+     "n": 12
+    },
+    {
+     "t": "Controlled experiments & mesocosms",
+     "n": 8
+    },
+    {
+     "t": "UAV / drone surveys",
+     "n": 5
+    },
+    {
+     "t": "Machine learning & AI",
+     "n": 3
+    },
+    {
+     "t": "Field surveys & transects",
+     "n": 3
+    }
+   ],
+   "areas": [
+    {
+     "t": "Northern Europe (Baltic / North Sea)",
+     "n": 18
+    },
+    {
+     "t": "Africa",
+     "n": 3
+    }
+   ],
+   "ecos": [
+    {
+     "t": "Seagrass meadows",
+     "n": 49
+    },
+    {
+     "t": "Tidal flats & salt marshes",
+     "n": 4
+    },
+    {
+     "t": "Estuaries",
+     "n": 3
+    },
+    {
+     "t": "Beaches & sandy shores",
      "n": 3
     }
    ]
@@ -589,6 +969,52 @@
     {
      "t": "Climate Change",
      "n": 10
+    }
+   ],
+   "absCov": [
+    65,
+    83
+   ],
+   "methods": [
+    {
+     "t": "Carbon stock assessment",
+     "n": 13
+    },
+    {
+     "t": "Machine learning & AI",
+     "n": 9
+    },
+    {
+     "t": "Field surveys & transects",
+     "n": 4
+    },
+    {
+     "t": "GIS & spatial analysis",
+     "n": 3
+    },
+    {
+     "t": "Social surveys & interviews",
+     "n": 3
+    }
+   ],
+   "areas": [
+    {
+     "t": "Central Europe",
+     "n": 32
+    },
+    {
+     "t": "Northern Europe (Baltic / North Sea)",
+     "n": 10
+    }
+   ],
+   "ecos": [
+    {
+     "t": "Temperate forests",
+     "n": 43
+    },
+    {
+     "t": "Tropical forests",
+     "n": 14
     }
    ]
   },
@@ -642,6 +1068,68 @@
     {
      "t": "Sex Determination & Epigenetics",
      "n": 9
+    }
+   ],
+   "absCov": [
+    118,
+    166
+   ],
+   "methods": [
+    {
+     "t": "Genomics & sequencing",
+     "n": 78
+    },
+    {
+     "t": "Quantitative genetics & genomic selection",
+     "n": 32
+    },
+    {
+     "t": "Machine learning & AI",
+     "n": 24
+    },
+    {
+     "t": "Environmental DNA & metabarcoding",
+     "n": 14
+    },
+    {
+     "t": "Microbiome analysis (16S / metagenomics)",
+     "n": 6
+    }
+   ],
+   "areas": [
+    {
+     "t": "Australia",
+     "n": 39
+    },
+    {
+     "t": "Southeast Asia (regional)",
+     "n": 11
+    },
+    {
+     "t": "Singapore",
+     "n": 9
+    },
+    {
+     "t": "Indonesia",
+     "n": 3
+    }
+   ],
+   "ecos": [
+    {
+     "t": "Aquaculture systems",
+     "n": 97
+    },
+    {
+     "t": "Rivers, lakes & wetlands",
+     "n": 9
+    },
+    {
+     "t": "Coral reefs",
+     "n": 6
+    },
+    {
+     "t": "Estuaries",
+     "n": 4
     }
    ]
   },
@@ -697,6 +1185,68 @@
      "t": "Heavy Metal Pollution",
      "n": 3
     }
+   ],
+   "absCov": [
+    35,
+    45
+   ],
+   "methods": [
+    {
+     "t": "Photophysiology (PAM fluorometry)",
+     "n": 11
+    },
+    {
+     "t": "Biomarkers & ecotoxicology",
+     "n": 5
+    },
+    {
+     "t": "Carbon stock assessment",
+     "n": 5
+    },
+    {
+     "t": "GIS & spatial analysis",
+     "n": 4
+    },
+    {
+     "t": "Social surveys & interviews",
+     "n": 3
+    }
+   ],
+   "areas": [
+    {
+     "t": "Andaman Sea (Thailand)",
+     "n": 8
+    },
+    {
+     "t": "Songkhla Lake / Lagoon",
+     "n": 6
+    },
+    {
+     "t": "Nepal",
+     "n": 5
+    },
+    {
+     "t": "Vietnam",
+     "n": 3
+    }
+   ],
+   "ecos": [
+    {
+     "t": "Agricultural land",
+     "n": 9
+    },
+    {
+     "t": "Coral reefs",
+     "n": 8
+    },
+    {
+     "t": "Rivers, lakes & wetlands",
+     "n": 8
+    },
+    {
+     "t": "Coastal lagoons",
+     "n": 6
+    }
    ]
   },
   {
@@ -744,6 +1294,64 @@
     },
     {
      "t": "Heavy Metal Pollution",
+     "n": 7
+    }
+   ],
+   "absCov": [
+    59,
+    77
+   ],
+   "methods": [
+    {
+     "t": "Trace metal analysis (ICP / AAS)",
+     "n": 16
+    },
+    {
+     "t": "Sediment cores & dating",
+     "n": 12
+    },
+    {
+     "t": "Spectroscopy (FTIR / Raman)",
+     "n": 11
+    },
+    {
+     "t": "Carbon stock assessment",
+     "n": 9
+    }
+   ],
+   "areas": [
+    {
+     "t": "Songkhla Lake / Lagoon",
+     "n": 24
+    },
+    {
+     "t": "Andaman Sea (Thailand)",
+     "n": 14
+    },
+    {
+     "t": "Gulf of Thailand",
+     "n": 11
+    },
+    {
+     "t": "China",
+     "n": 9
+    }
+   ],
+   "ecos": [
+    {
+     "t": "Mangroves",
+     "n": 19
+    },
+    {
+     "t": "Rivers, lakes & wetlands",
+     "n": 16
+    },
+    {
+     "t": "Coastal lagoons",
+     "n": 14
+    },
+    {
+     "t": "Beaches & sandy shores",
      "n": 7
     }
    ]
@@ -798,6 +1406,56 @@
      "t": "Mangroves",
      "n": 3
     }
+   ],
+   "absCov": [
+    24,
+    26
+   ],
+   "methods": [
+    {
+     "t": "Satellite remote sensing",
+     "n": 15
+    },
+    {
+     "t": "Machine learning & AI",
+     "n": 10
+    },
+    {
+     "t": "Social surveys & interviews",
+     "n": 6
+    },
+    {
+     "t": "Numerical & hydrodynamic modelling",
+     "n": 2
+    }
+   ],
+   "areas": [
+    {
+     "t": "Andaman Sea (Thailand)",
+     "n": 7
+    },
+    {
+     "t": "Nepal",
+     "n": 6
+    },
+    {
+     "t": "Vietnam",
+     "n": 2
+    }
+   ],
+   "ecos": [
+    {
+     "t": "Mangroves",
+     "n": 6
+    },
+    {
+     "t": "Agricultural land",
+     "n": 4
+    },
+    {
+     "t": "Beaches & sandy shores",
+     "n": 2
+    }
    ]
   },
   {
@@ -844,6 +1502,31 @@
      "t": "Sea-Level Rise Adaptation",
      "n": 4
     }
+   ],
+   "absCov": [
+    4,
+    8
+   ],
+   "methods": [
+    {
+     "t": "UAV / drone surveys",
+     "n": 1
+    },
+    {
+     "t": "Social surveys & interviews",
+     "n": 1
+    }
+   ],
+   "areas": [],
+   "ecos": [
+    {
+     "t": "Mangroves",
+     "n": 8
+    },
+    {
+     "t": "Tidal flats & salt marshes",
+     "n": 3
+    }
    ]
   },
   {
@@ -887,6 +1570,48 @@
     },
     {
      "t": "Marine Debris",
+     "n": 2
+    }
+   ],
+   "absCov": [
+    13,
+    14
+   ],
+   "methods": [
+    {
+     "t": "Numerical & hydrodynamic modelling",
+     "n": 8
+    },
+    {
+     "t": "Satellite remote sensing",
+     "n": 2
+    },
+    {
+     "t": "UAV / drone surveys",
+     "n": 2
+    }
+   ],
+   "areas": [
+    {
+     "t": "Gulf of Thailand",
+     "n": 9
+    }
+   ],
+   "ecos": [
+    {
+     "t": "Rivers, lakes & wetlands",
+     "n": 7
+    },
+    {
+     "t": "Estuaries",
+     "n": 3
+    },
+    {
+     "t": "Aquaculture systems",
+     "n": 3
+    },
+    {
+     "t": "Mangroves",
      "n": 2
     }
    ]
@@ -933,6 +1658,32 @@
     {
      "t": "Aquaculture",
      "n": 5
+    }
+   ],
+   "absCov": [
+    7,
+    18
+   ],
+   "methods": [
+    {
+     "t": "Quantitative genetics & genomic selection",
+     "n": 12
+    },
+    {
+     "t": "Genomics & sequencing",
+     "n": 11
+    }
+   ],
+   "areas": [
+    {
+     "t": "Gulf of Thailand",
+     "n": 2
+    }
+   ],
+   "ecos": [
+    {
+     "t": "Aquaculture systems",
+     "n": 6
     }
    ]
   },
@@ -984,6 +1735,64 @@
      "t": "Bioremediation",
      "n": 4
     }
+   ],
+   "absCov": [
+    57,
+    76
+   ],
+   "methods": [
+    {
+     "t": "Microbiome analysis (16S / metagenomics)",
+     "n": 15
+    },
+    {
+     "t": "Genomics & sequencing",
+     "n": 14
+    },
+    {
+     "t": "Spectroscopy (FTIR / Raman)",
+     "n": 4
+    },
+    {
+     "t": "Biomarkers & ecotoxicology",
+     "n": 3
+    }
+   ],
+   "areas": [
+    {
+     "t": "Gulf of Thailand",
+     "n": 32
+    },
+    {
+     "t": "Southeast Asia (regional)",
+     "n": 12
+    },
+    {
+     "t": "Andaman Sea (Thailand)",
+     "n": 5
+    },
+    {
+     "t": "Indonesia",
+     "n": 3
+    }
+   ],
+   "ecos": [
+    {
+     "t": "Coral reefs",
+     "n": 28
+    },
+    {
+     "t": "Rivers, lakes & wetlands",
+     "n": 8
+    },
+    {
+     "t": "Aquaculture systems",
+     "n": 7
+    },
+    {
+     "t": "Estuaries",
+     "n": 6
+    }
    ]
   },
   {
@@ -1030,6 +1839,56 @@
     {
      "t": "Coral Microbiome",
      "n": 3
+    }
+   ],
+   "absCov": [
+    39,
+    47
+   ],
+   "methods": [
+    {
+     "t": "Genomics & sequencing",
+     "n": 13
+    },
+    {
+     "t": "Microbiome analysis (16S / metagenomics)",
+     "n": 13
+    },
+    {
+     "t": "Spectroscopy (FTIR / Raman)",
+     "n": 3
+    }
+   ],
+   "areas": [
+    {
+     "t": "Gulf of Thailand",
+     "n": 22
+    },
+    {
+     "t": "Southeast Asia (regional)",
+     "n": 9
+    },
+    {
+     "t": "Japan",
+     "n": 3
+    },
+    {
+     "t": "Andaman Sea (Thailand)",
+     "n": 3
+    }
+   ],
+   "ecos": [
+    {
+     "t": "Coral reefs",
+     "n": 18
+    },
+    {
+     "t": "Aquaculture systems",
+     "n": 6
+    },
+    {
+     "t": "Mangroves",
+     "n": 4
     }
    ]
   },
@@ -1083,6 +1942,64 @@
      "t": "Blue Carbon",
      "n": 2
     }
+   ],
+   "absCov": [
+    10,
+    21
+   ],
+   "methods": [
+    {
+     "t": "Trace metal analysis (ICP / AAS)",
+     "n": 8
+    },
+    {
+     "t": "Sediment cores & dating",
+     "n": 3
+    },
+    {
+     "t": "Carbon stock assessment",
+     "n": 3
+    },
+    {
+     "t": "Isotope tracing (Pb, Hg)",
+     "n": 2
+    }
+   ],
+   "areas": [
+    {
+     "t": "Gulf of Thailand",
+     "n": 12
+    },
+    {
+     "t": "Northern & central Thailand (inland)",
+     "n": 5
+    },
+    {
+     "t": "Southeast Asia (regional)",
+     "n": 3
+    },
+    {
+     "t": "Andaman Sea (Thailand)",
+     "n": 3
+    }
+   ],
+   "ecos": [
+    {
+     "t": "Rivers, lakes & wetlands",
+     "n": 6
+    },
+    {
+     "t": "Estuaries",
+     "n": 5
+    },
+    {
+     "t": "Urban areas",
+     "n": 4
+    },
+    {
+     "t": "Mangroves",
+     "n": 2
+    }
    ]
   },
   {
@@ -1131,6 +2048,60 @@
     {
      "t": "Sea Cucumbers",
      "n": 3
+    }
+   ],
+   "absCov": [
+    39,
+    55
+   ],
+   "methods": [
+    {
+     "t": "Carbon stock assessment",
+     "n": 21
+    },
+    {
+     "t": "Field surveys & transects",
+     "n": 3
+    },
+    {
+     "t": "UAV / drone surveys",
+     "n": 3
+    }
+   ],
+   "areas": [
+    {
+     "t": "Andaman Sea (Thailand)",
+     "n": 15
+    },
+    {
+     "t": "Southeast Asia (regional)",
+     "n": 12
+    },
+    {
+     "t": "Gulf of Thailand",
+     "n": 4
+    },
+    {
+     "t": "Indonesia",
+     "n": 3
+    }
+   ],
+   "ecos": [
+    {
+     "t": "Seagrass meadows",
+     "n": 42
+    },
+    {
+     "t": "Tidal flats & salt marshes",
+     "n": 7
+    },
+    {
+     "t": "Coral reefs",
+     "n": 6
+    },
+    {
+     "t": "Mangroves",
+     "n": 5
     }
    ]
   },
@@ -1192,6 +2163,60 @@
      "t": "AI & Machine Learning",
      "n": 4
     }
+   ],
+   "absCov": [
+    29,
+    35
+   ],
+   "methods": [
+    {
+     "t": "Photophysiology (PAM fluorometry)",
+     "n": 9
+    },
+    {
+     "t": "Trace metal analysis (ICP / AAS)",
+     "n": 4
+    },
+    {
+     "t": "Biomarkers & ecotoxicology",
+     "n": 4
+    },
+    {
+     "t": "Machine learning & AI",
+     "n": 3
+    }
+   ],
+   "areas": [
+    {
+     "t": "Songkhla Lake / Lagoon",
+     "n": 9
+    },
+    {
+     "t": "Andaman Sea (Thailand)",
+     "n": 7
+    },
+    {
+     "t": "Myanmar",
+     "n": 2
+    }
+   ],
+   "ecos": [
+    {
+     "t": "Rivers, lakes & wetlands",
+     "n": 10
+    },
+    {
+     "t": "Coastal lagoons",
+     "n": 8
+    },
+    {
+     "t": "Mangroves",
+     "n": 7
+    },
+    {
+     "t": "Agricultural land",
+     "n": 6
+    }
    ]
   },
   {
@@ -1241,6 +2266,32 @@
      "t": "Plantation Silviculture",
      "n": 3
     }
+   ],
+   "absCov": [
+    11,
+    17
+   ],
+   "methods": [
+    {
+     "t": "Social surveys & interviews",
+     "n": 2
+    }
+   ],
+   "areas": [
+    {
+     "t": "Northern & central Thailand (inland)",
+     "n": 2
+    }
+   ],
+   "ecos": [
+    {
+     "t": "Mangroves",
+     "n": 9
+    },
+    {
+     "t": "Tidal flats & salt marshes",
+     "n": 3
+    }
    ]
   },
   {
@@ -1287,6 +2338,27 @@
      "t": "Quantitative Genetics",
      "n": 4
     }
+   ],
+   "absCov": [
+    3,
+    14
+   ],
+   "methods": [
+    {
+     "t": "Quantitative genetics & genomic selection",
+     "n": 13
+    },
+    {
+     "t": "Genomics & sequencing",
+     "n": 10
+    }
+   ],
+   "areas": [],
+   "ecos": [
+    {
+     "t": "Aquaculture systems",
+     "n": 3
+    }
    ]
   },
   {
@@ -1325,6 +2397,27 @@
     {
      "t": "Aquaculture Genetics",
      "n": 4
+    }
+   ],
+   "absCov": [
+    4,
+    7
+   ],
+   "methods": [
+    {
+     "t": "Genomics & sequencing",
+     "n": 7
+    },
+    {
+     "t": "Quantitative genetics & genomic selection",
+     "n": 4
+    }
+   ],
+   "areas": [],
+   "ecos": [
+    {
+     "t": "Aquaculture systems",
+     "n": 3
     }
    ]
   },
@@ -1408,7 +2501,31 @@
      "t": "Epidemic Modelling",
      "n": 2
     }
-   ]
+   ],
+   "absCov": [
+    22,
+    27
+   ],
+   "methods": [
+    {
+     "t": "Satellite remote sensing",
+     "n": 15
+    },
+    {
+     "t": "Ocean colour & phytoplankton modelling",
+     "n": 8
+    },
+    {
+     "t": "Numerical & hydrodynamic modelling",
+     "n": 4
+    },
+    {
+     "t": "Fish stock assessment",
+     "n": 3
+    }
+   ],
+   "areas": [],
+   "ecos": []
   },
   {
    "id": 30,
@@ -1478,6 +2595,28 @@
     },
     {
      "t": "Microplastics",
+     "n": 1
+    }
+   ],
+   "absCov": [
+    4,
+    4
+   ],
+   "methods": [
+    {
+     "t": "Machine learning & AI",
+     "n": 2
+    }
+   ],
+   "areas": [
+    {
+     "t": "Andaman Sea (Thailand)",
+     "n": 1
+    }
+   ],
+   "ecos": [
+    {
+     "t": "Seagrass meadows",
      "n": 1
     }
    ]
@@ -1845,6 +2984,32 @@
      "t": "Mangroves",
      "n": 1
     }
+   ],
+   "absCov": [
+    1,
+    1
+   ],
+   "methods": [
+    {
+     "t": "Satellite remote sensing",
+     "n": 1
+    }
+   ],
+   "areas": [
+    {
+     "t": "Gulf of Thailand",
+     "n": 1
+    }
+   ],
+   "ecos": [
+    {
+     "t": "Mangroves",
+     "n": 1
+    },
+    {
+     "t": "Tidal flats & salt marshes",
+     "n": 1
+    }
    ]
   },
   {
@@ -1881,6 +3046,36 @@
     },
     {
      "t": "Coral Ecophysiology",
+     "n": 3
+    }
+   ],
+   "absCov": [
+    7,
+    7
+   ],
+   "methods": [
+    {
+     "t": "Photophysiology (PAM fluorometry)",
+     "n": 5
+    }
+   ],
+   "areas": [
+    {
+     "t": "Songkhla Lake / Lagoon",
+     "n": 3
+    },
+    {
+     "t": "Andaman Sea (Thailand)",
+     "n": 1
+    }
+   ],
+   "ecos": [
+    {
+     "t": "Coastal lagoons",
+     "n": 3
+    },
+    {
+     "t": "Coral reefs",
      "n": 3
     }
    ]
@@ -2143,6 +3338,52 @@
      "t": "Seaweed Bioactive Compounds",
      "n": 3
     }
+   ],
+   "absCov": [
+    26,
+    39
+   ],
+   "methods": [
+    {
+     "t": "Microbiome analysis (16S / metagenomics)",
+     "n": 5
+    },
+    {
+     "t": "Genomics & sequencing",
+     "n": 3
+    },
+    {
+     "t": "Proteomics",
+     "n": 2
+    }
+   ],
+   "areas": [
+    {
+     "t": "Andaman Sea (Thailand)",
+     "n": 3
+    },
+    {
+     "t": "Gulf of Thailand",
+     "n": 3
+    },
+    {
+     "t": "South China Sea",
+     "n": 2
+    }
+   ],
+   "ecos": [
+    {
+     "t": "Coral reefs",
+     "n": 9
+    },
+    {
+     "t": "Seagrass meadows",
+     "n": 7
+    },
+    {
+     "t": "Tidal flats & salt marshes",
+     "n": 5
+    }
    ]
   },
   {
@@ -2367,6 +3608,40 @@
     {
      "t": "Environmental DNA",
      "n": 2
+    }
+   ],
+   "absCov": [
+    8,
+    9
+   ],
+   "methods": [
+    {
+     "t": "Microbiome analysis (16S / metagenomics)",
+     "n": 4
+    },
+    {
+     "t": "Genomics & sequencing",
+     "n": 2
+    },
+    {
+     "t": "Environmental DNA & metabarcoding",
+     "n": 1
+    }
+   ],
+   "areas": [
+    {
+     "t": "Gulf of Thailand",
+     "n": 2
+    }
+   ],
+   "ecos": [
+    {
+     "t": "Coral reefs",
+     "n": 4
+    },
+    {
+     "t": "Seagrass meadows",
+     "n": 1
     }
    ]
   },
@@ -2652,6 +3927,36 @@
      "t": "Land Cover Change",
      "n": 3
     }
+   ],
+   "absCov": [
+    27,
+    32
+   ],
+   "methods": [
+    {
+     "t": "Social surveys & interviews",
+     "n": 14
+    },
+    {
+     "t": "Satellite remote sensing",
+     "n": 5
+    }
+   ],
+   "areas": [
+    {
+     "t": "Nepal",
+     "n": 24
+    }
+   ],
+   "ecos": [
+    {
+     "t": "Urban areas",
+     "n": 6
+    },
+    {
+     "t": "Agricultural land",
+     "n": 4
+    }
    ]
   },
   {
@@ -2915,6 +4220,40 @@
     {
      "t": "Fire Ecology",
      "n": 3
+    }
+   ],
+   "absCov": [
+    49,
+    56
+   ],
+   "methods": [
+    {
+     "t": "Field surveys & transects",
+     "n": 18
+    },
+    {
+     "t": "GIS & spatial analysis",
+     "n": 5
+    },
+    {
+     "t": "Satellite remote sensing",
+     "n": 3
+    }
+   ],
+   "areas": [
+    {
+     "t": "Northern & central Thailand (inland)",
+     "n": 39
+    },
+    {
+     "t": "Southeast Asia (regional)",
+     "n": 4
+    }
+   ],
+   "ecos": [
+    {
+     "t": "Tropical forests",
+     "n": 32
     }
    ]
   }
