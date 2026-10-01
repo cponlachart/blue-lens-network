@@ -1,0 +1,3052 @@
+{
+ "people": [
+  {
+   "id": 1,
+   "title": "Prof. Dr.",
+   "name": "Jiajun Liu",
+   "nameTh": "",
+   "pending": false,
+   "org": "CSIRO",
+   "orgShort": "CSIRO",
+   "orgFull": "Commonwealth Scientific and Industrial Research Organisation (CSIRO)",
+   "faculty": "",
+   "dept": "",
+   "position": "",
+   "email": "",
+   "orcid": "https://orcid.org/0000-0001-8160-1796",
+   "profile": "https://people.csiro.au/L/J/ryan-liu",
+   "expertise": [
+    "Sensing Systems",
+    "Multimedia Analysis",
+    "Deep Learning"
+   ],
+   "themes": [
+    "Remote Sensing & Data"
+   ],
+   "country": "Australia",
+   "scopus": {
+    "id": "55904664100",
+    "docs": 91,
+    "cites": 1927,
+    "h": 23,
+    "probable": true,
+    "aff": "The University of Queensland"
+   },
+   "pub": [
+    {
+     "t": "AI & Machine Learning",
+     "n": 14
+    },
+    {
+     "t": "Robot Navigation",
+     "n": 5
+    },
+    {
+     "t": "Recommender Systems",
+     "n": 3
+    }
+   ]
+  },
+  {
+   "id": 2,
+   "title": "Prof. Dr.",
+   "name": "Lu Xixi",
+   "nameTh": "",
+   "pending": false,
+   "org": "National University of Singapore",
+   "orgShort": "National University of Singapore",
+   "orgFull": "National University of Singapore",
+   "faculty": "",
+   "dept": "",
+   "position": "",
+   "email": "",
+   "orcid": "",
+   "profile": "",
+   "expertise": [
+    "Rivers",
+    "Earth Science",
+    "Physical Geography",
+    "Urban Development",
+    "Remote Sensing",
+    "Climate Change",
+    "Soil",
+    "Heavy Metal Pollution",
+    "Precipitation"
+   ],
+   "themes": [
+    "Ocean & Climate",
+    "Pollution & Environmental Chemistry",
+    "Remote Sensing & Data"
+   ],
+   "country": "Singapore",
+   "scopus": {
+    "id": "7404840444",
+    "docs": 319,
+    "cites": 15854,
+    "h": 72,
+    "probable": false,
+    "aff": "National University of Singapore"
+   }
+  },
+  {
+   "id": 3,
+   "title": "Prof. Dr.",
+   "name": "Jonathan Cheung-Wai Chan",
+   "nameTh": "",
+   "pending": false,
+   "org": "Vrije Universiteit Brussel",
+   "orgShort": "Vrije Universiteit Brussel",
+   "orgFull": "Vrije Universiteit Brussel",
+   "faculty": "",
+   "dept": "",
+   "position": "",
+   "email": "",
+   "orcid": "https://orcid.org/0000-0002-3741-1124",
+   "profile": "",
+   "expertise": [
+    "Remote Sensing"
+   ],
+   "themes": [
+    "Remote Sensing & Data"
+   ],
+   "country": "Belgium",
+   "scopus": {
+    "id": "8840429000",
+    "docs": 75,
+    "cites": 4843,
+    "h": 29,
+    "probable": false,
+    "aff": "Vrije Universiteit Brussel"
+   },
+   "pub": [
+    {
+     "t": "Hyperspectral Imaging",
+     "n": 26
+    },
+    {
+     "t": "Image Fusion",
+     "n": 23
+    },
+    {
+     "t": "Remote Sensing",
+     "n": 17
+    },
+    {
+     "t": "Image Denoising",
+     "n": 10
+    }
+   ]
+  },
+  {
+   "id": 4,
+   "title": "Prof. Dr.",
+   "name": "Kazuhisa Goto",
+   "nameTh": "",
+   "pending": false,
+   "org": "The University of Tokyo",
+   "orgShort": "The University of Tokyo",
+   "orgFull": "The University of Tokyo",
+   "faculty": "",
+   "dept": "",
+   "position": "",
+   "email": "",
+   "orcid": "https://orcid.org/0000-0002-5351-7383",
+   "profile": "",
+   "expertise": [
+    "Oceanography"
+   ],
+   "themes": [
+    "Ocean & Climate"
+   ],
+   "country": "Japan",
+   "scopus": {
+    "id": "36025219700",
+    "docs": 181,
+    "cites": 7765,
+    "h": 43,
+    "probable": false,
+    "aff": "The University of Tokyo"
+   },
+   "pub": [
+    {
+     "t": "Tsunami & Earthquake Geology",
+     "n": 37
+    },
+    {
+     "t": "Paleoclimate",
+     "n": 12
+    },
+    {
+     "t": "Tropical Cyclones",
+     "n": 5
+    }
+   ]
+  },
+  {
+   "id": 5,
+   "title": "Prof. Dr.",
+   "name": "Xinyu Guo",
+   "nameTh": "",
+   "pending": false,
+   "org": "Ehime University",
+   "orgShort": "Ehime University",
+   "orgFull": "Ehime University",
+   "faculty": "",
+   "dept": "",
+   "position": "",
+   "email": "",
+   "orcid": "https://orcid.org/0000-0002-4832-8625",
+   "profile": "",
+   "expertise": [
+    "Nutrient Cycling",
+    "Numerical Modeling",
+    "Physical Oceanography",
+    "Ocean Modeling",
+    "Climate Change",
+    "Oceanography",
+    "Data Assimilation",
+    "Estuaries"
+   ],
+   "themes": [
+    "Ocean & Climate"
+   ],
+   "country": "Japan",
+   "scopus": {
+    "id": "7404330813",
+    "docs": 208,
+    "cites": 4895,
+    "h": 37,
+    "probable": false,
+    "aff": "Center for Marine Environmental Studies, Ehime University"
+   },
+   "pub": [
+    {
+     "t": "Physical Oceanography",
+     "n": 44
+    },
+    {
+     "t": "Marine Ecosystems",
+     "n": 33
+    },
+    {
+     "t": "Phytoplankton",
+     "n": 16
+    },
+    {
+     "t": "Nutrient Cycling",
+     "n": 15
+    }
+   ]
+  },
+  {
+   "id": 6,
+   "title": "Dr.",
+   "name": "Nguyen Hong Nguyen",
+   "nameTh": "",
+   "pending": false,
+   "org": "University of the Sunshine Coast (UniSC)",
+   "orgShort": "University of the Sunshine Coast (UniSC)",
+   "orgFull": "University of the Sunshine Coast (UniSC)",
+   "faculty": "",
+   "dept": "",
+   "position": "",
+   "email": "",
+   "orcid": "https://orcid.org/0000-0002-4143-955X",
+   "profile": "",
+   "expertise": [
+    "Genomics",
+    "Quantitative Genetics",
+    "Genetic Improvement",
+    "Selective Breeding",
+    "DNA Markers"
+   ],
+   "themes": [
+    "Aquaculture, Genetics & Biotech"
+   ],
+   "country": "Australia",
+   "scopus": {
+    "id": "55644978200",
+    "docs": 107,
+    "cites": 3392,
+    "h": 34,
+    "probable": false,
+    "aff": "University of the Sunshine Coast"
+   },
+   "pub": [
+    {
+     "t": "Quantitative Genetics",
+     "n": 20
+    },
+    {
+     "t": "Selective Breeding",
+     "n": 13
+    },
+    {
+     "t": "Aquaculture",
+     "n": 15
+    },
+    {
+     "t": "Disease Resistance",
+     "n": 14
+    }
+   ]
+  },
+  {
+   "id": 7,
+   "title": "Prof. Dr.",
+   "name": "Huahong Shi",
+   "nameTh": "",
+   "pending": false,
+   "org": "East China Normal University",
+   "orgShort": "East China Normal University",
+   "orgFull": "East China Normal University",
+   "faculty": "",
+   "dept": "",
+   "position": "",
+   "email": "",
+   "orcid": "https://orcid.org/0000-0003-2978-0680",
+   "profile": "",
+   "expertise": [
+    "Ecology",
+    "Genetics",
+    "Biochemistry",
+    "Environmental Chemistry",
+    "Microplastics",
+    "Marine Pollution"
+   ],
+   "themes": [
+    "Aquaculture, Genetics & Biotech",
+    "Coastal Ecosystems & Blue Carbon",
+    "Pollution & Environmental Chemistry"
+   ],
+   "country": "China",
+   "scopus": {
+    "id": "55448170700",
+    "docs": 183,
+    "cites": 29217,
+    "h": 82,
+    "probable": false,
+    "aff": "State Key Laboratory of Estuarine and Coastal Research"
+   },
+   "pub": [
+    {
+     "t": "Microplastics",
+     "n": 119
+    },
+    {
+     "t": "Nanoplastics",
+     "n": 10
+    }
+   ]
+  },
+  {
+   "id": 8,
+   "title": "Prof. Dr.",
+   "name": "Thomas Felis",
+   "nameTh": "",
+   "pending": false,
+   "org": "University of Bremen",
+   "orgShort": "University of Bremen",
+   "orgFull": "University of Bremen",
+   "faculty": "",
+   "dept": "Center for Marine Environmental Sciences",
+   "position": "",
+   "email": "",
+   "orcid": "https://orcid.org/0000-0003-1417-9657",
+   "profile": "",
+   "expertise": [
+    "Climate Change",
+    "Coral Reefs"
+   ],
+   "themes": [
+    "Coastal Ecosystems & Blue Carbon",
+    "Ocean & Climate"
+   ],
+   "country": "Germany",
+   "scopus": {
+    "id": "6603451222",
+    "docs": 75,
+    "cites": 3349,
+    "h": 32,
+    "probable": false,
+    "aff": "MARUM – Center for Marine Environmental Sciences"
+   },
+   "pub": [
+    {
+     "t": "Coral Reefs",
+     "n": 24
+    },
+    {
+     "t": "Paleoclimate",
+     "n": 24
+    },
+    {
+     "t": "Sea Surface Temperature",
+     "n": 10
+    }
+   ]
+  },
+  {
+   "id": 9,
+   "title": "Prof. Dr.",
+   "name": "Chiahsin Lin",
+   "nameTh": "",
+   "pending": false,
+   "org": "National Dong Hwa University",
+   "orgShort": "National Dong Hwa University",
+   "orgFull": "National Dong Hwa University",
+   "faculty": "",
+   "dept": "",
+   "position": "",
+   "email": "",
+   "orcid": "https://orcid.org/0000-0003-3442-3928",
+   "profile": "",
+   "expertise": [
+    "Stem Cell Biology",
+    "Cell Culture",
+    "PCR",
+    "Flow Cytometry",
+    "Gene Expression",
+    "Cryobiology",
+    "Cryopreservation"
+   ],
+   "themes": [
+    "Aquaculture, Genetics & Biotech"
+   ],
+   "country": "Taiwan",
+   "scopus": {
+    "id": "26665559300",
+    "docs": 69,
+    "cites": 1279,
+    "h": 20,
+    "probable": true,
+    "aff": "National Dong Hwa University"
+   },
+   "pub": [
+    {
+     "t": "Coral Reefs",
+     "n": 31
+    },
+    {
+     "t": "Cryopreservation",
+     "n": 24
+    },
+    {
+     "t": "Coral Reef Restoration",
+     "n": 7
+    },
+    {
+     "t": "Symbiodinium",
+     "n": 8
+    }
+   ]
+  },
+  {
+   "id": 10,
+   "title": "Prof. Dr.",
+   "name": "Alfredo Huete",
+   "nameTh": "",
+   "pending": false,
+   "org": "University of Technology Sydney",
+   "orgShort": "University of Technology Sydney",
+   "orgFull": "University of Technology Sydney",
+   "faculty": "",
+   "dept": "",
+   "position": "",
+   "email": "",
+   "orcid": "https://orcid.org/0000-0003-2809-2376",
+   "profile": "",
+   "expertise": [
+    "Remote Sensing"
+   ],
+   "themes": [
+    "Remote Sensing & Data"
+   ],
+   "country": "Australia",
+   "scopus": {
+    "id": "7006114701",
+    "docs": 403,
+    "cites": 57517,
+    "h": 91,
+    "probable": false,
+    "aff": "University of Technology Sydney"
+   },
+   "pub": [
+    {
+     "t": "Remote Sensing",
+     "n": 60
+    },
+    {
+     "t": "Vegetation Phenology",
+     "n": 17
+    },
+    {
+     "t": "Carbon & Water Fluxes",
+     "n": 17
+    },
+    {
+     "t": "Pollen & Aerobiology",
+     "n": 9
+    },
+    {
+     "t": "Drought",
+     "n": 7
+    }
+   ]
+  },
+  {
+   "id": 11,
+   "title": "Prof. Dr.",
+   "name": "Eduardo Infantes",
+   "nameTh": "",
+   "pending": false,
+   "org": "University of Gothenburg",
+   "orgShort": "University of Gothenburg",
+   "orgFull": "University of Gothenburg",
+   "faculty": "",
+   "dept": "",
+   "position": "",
+   "email": "",
+   "orcid": "https://orcid.org/0000-0002-9724-9237",
+   "profile": "https://www.gu.se/en/about/find-staff/eduardoinfantes",
+   "expertise": [
+    "Seagrass Restoration"
+   ],
+   "themes": [
+    "Coastal Ecosystems & Blue Carbon"
+   ],
+   "country": "Sweden",
+   "scopus": {
+    "id": "35217775900",
+    "docs": 61,
+    "cites": 2195,
+    "h": 27,
+    "probable": true,
+    "aff": "Universidad de Las Palmas de Gran Canaria"
+   },
+   "pub": [
+    {
+     "t": "Seagrass",
+     "n": 33
+    },
+    {
+     "t": "Seagrass Restoration",
+     "n": 9
+    },
+    {
+     "t": "Coastal Ecology",
+     "n": 8
+    },
+    {
+     "t": "Microplastics",
+     "n": 3
+    }
+   ]
+  },
+  {
+   "id": 12,
+   "title": "Prof. Dr. habil.",
+   "name": "Dominik Thom",
+   "nameTh": "",
+   "pending": false,
+   "org": "Dresden University of Technology",
+   "orgShort": "Dresden University of Technology",
+   "orgFull": "Dresden University of Technology",
+   "faculty": "",
+   "dept": "",
+   "position": "",
+   "email": "",
+   "orcid": "https://orcid.org/0000-0001-8091-6075",
+   "profile": "",
+   "expertise": [
+    "Oceanography"
+   ],
+   "themes": [
+    "Ocean & Climate"
+   ],
+   "country": "Germany",
+   "scopus": {
+    "id": "55823479800",
+    "docs": 72,
+    "cites": 8381,
+    "h": 31,
+    "probable": false,
+    "aff": "Technische Universität Dresden"
+   },
+   "pub": [
+    {
+     "t": "Forest Disturbance Ecology",
+     "n": 20
+    },
+    {
+     "t": "Forest Management",
+     "n": 20
+    },
+    {
+     "t": "Fire Ecology",
+     "n": 10
+    },
+    {
+     "t": "Climate Change",
+     "n": 10
+    }
+   ]
+  },
+  {
+   "id": 13,
+   "title": "Dr.",
+   "name": "Dean Jerry",
+   "nameTh": "",
+   "pending": false,
+   "org": "James Cook University",
+   "orgShort": "James Cook University",
+   "orgFull": "James Cook University",
+   "faculty": "",
+   "dept": "",
+   "position": "",
+   "email": "",
+   "orcid": "https://orcid.org/0000-0003-3735-1798",
+   "profile": "",
+   "expertise": [
+    "Aquaculture Genetics"
+   ],
+   "themes": [
+    "Aquaculture, Genetics & Biotech"
+   ],
+   "country": "Australia",
+   "scopus": {
+    "id": "7003581046",
+    "docs": 256,
+    "cites": 7204,
+    "h": 42,
+    "probable": false,
+    "aff": "James Cook University, Singapore"
+   },
+   "pub": [
+    {
+     "t": "Aquaculture",
+     "n": 22
+    },
+    {
+     "t": "Selective Breeding",
+     "n": 14
+    },
+    {
+     "t": "Aquatic Animal Health",
+     "n": 14
+    },
+    {
+     "t": "Environmental DNA",
+     "n": 12
+    },
+    {
+     "t": "Sex Determination & Epigenetics",
+     "n": 9
+    }
+   ]
+  },
+  {
+   "id": 14,
+   "title": "Assoc. Prof. Dr.",
+   "name": "Sutinee Sinutok",
+   "nameTh": "สุธินี สินุธก",
+   "pending": false,
+   "org": "Prince of Songkla University",
+   "orgShort": "PSU",
+   "orgFull": "Prince of Songkla University",
+   "faculty": "Environmental Management",
+   "dept": "Coastal Oceanography and Climate Change Research Center",
+   "position": "Lecturer",
+   "email": "sutinee.s@psu.ac.th",
+   "orcid": "https://orcid.org/0000-0002-1428-8477",
+   "profile": "https://cocc.psu.ac.th/sutinee-sinutok/",
+   "expertise": [
+    "Blue Carbon",
+    "Marine Ecophysiology"
+   ],
+   "themes": [
+    "Coastal Ecosystems & Blue Carbon"
+   ],
+   "country": "Thailand",
+   "scopus": {
+    "id": "26434549900",
+    "docs": 55,
+    "cites": 616,
+    "h": 15,
+    "probable": false,
+    "aff": "Prince of Songkla University"
+   },
+   "pub": [
+    {
+     "t": "Marine Ecophysiology",
+     "n": 10
+    },
+    {
+     "t": "Mangroves",
+     "n": 6
+    },
+    {
+     "t": "Coral Ecophysiology",
+     "n": 5
+    },
+    {
+     "t": "Community Forestry",
+     "n": 4
+    },
+    {
+     "t": "Heavy Metal Pollution",
+     "n": 3
+    }
+   ]
+  },
+  {
+   "id": 15,
+   "title": "Assoc. Prof. Dr.",
+   "name": "Siriporn Pradit",
+   "nameTh": "ศิริพร ประดิษฐ์",
+   "pending": false,
+   "org": "Prince of Songkla University",
+   "orgShort": "PSU",
+   "orgFull": "Prince of Songkla University",
+   "faculty": "Environmental Management",
+   "dept": "Coastal Oceanography and Climate Change Research Center",
+   "position": "Lecturer",
+   "email": "siriporn.pra@psu.ac.th",
+   "orcid": "https://orcid.org/0000-0002-5108-2910",
+   "profile": "https://cocc.psu.ac.th/assoc-prof-dr-siriporn-pradit/",
+   "expertise": [
+    "Chemical Oceanography"
+   ],
+   "themes": [
+    "Ocean & Climate"
+   ],
+   "country": "Thailand",
+   "scopus": {
+    "id": "35730370900",
+    "docs": 96,
+    "cites": 1282,
+    "h": 22,
+    "probable": false,
+    "aff": "Prince of Songkla University"
+   },
+   "pub": [
+    {
+     "t": "Microplastics",
+     "n": 26
+    },
+    {
+     "t": "Mangroves",
+     "n": 8
+    },
+    {
+     "t": "Crustacean & Fish Ecology",
+     "n": 8
+    },
+    {
+     "t": "Heavy Metal Pollution",
+     "n": 7
+    }
+   ]
+  },
+  {
+   "id": 16,
+   "title": "Assoc. Prof. Dr.",
+   "name": "Weerapong Koedsin",
+   "nameTh": "วีระพงค์ เกิดสิน",
+   "pending": false,
+   "org": "Prince of Songkla University",
+   "orgShort": "PSU",
+   "orgFull": "Prince of Songkla University",
+   "faculty": "Technology and Environment",
+   "dept": "",
+   "position": "Lecturer",
+   "email": "werapong.g@phuket.psu.ac.th",
+   "orcid": "https://orcid.org/0000-0002-4411-9148",
+   "profile": "",
+   "expertise": [
+    "Remote Sensing",
+    "Geoinformatics",
+    "Environmental Monitoring"
+   ],
+   "themes": [
+    "Pollution & Environmental Chemistry",
+    "Remote Sensing & Data"
+   ],
+   "country": "Thailand",
+   "scopus": {
+    "id": "36951339800",
+    "docs": 24,
+    "cites": 399,
+    "h": 11,
+    "probable": false,
+    "aff": "Prince of Songkla University"
+   },
+   "pub": [
+    {
+     "t": "Remote Sensing",
+     "n": 9
+    },
+    {
+     "t": "Vegetation Phenology",
+     "n": 5
+    },
+    {
+     "t": "Disaster Management",
+     "n": 5
+    },
+    {
+     "t": "Mangroves",
+     "n": 3
+    }
+   ]
+  },
+  {
+   "id": 17,
+   "title": "Assoc. Prof. Dr.",
+   "name": "Aor Pranchai",
+   "nameTh": "ออ พรานไชย",
+   "pending": false,
+   "org": "Kasetsart University",
+   "orgShort": "KU",
+   "orgFull": "Kasetsart University",
+   "faculty": "Forestry",
+   "dept": "Silviculture",
+   "position": "Lecturer",
+   "email": "fforaor@ku.ac.th",
+   "orcid": "https://orcid.org/0000-0001-8279-469X",
+   "profile": "",
+   "expertise": [
+    "Mangroves",
+    "Blue Carbon"
+   ],
+   "themes": [
+    "Coastal Ecosystems & Blue Carbon"
+   ],
+   "country": "Thailand",
+   "scopus": {
+    "id": "56321719400",
+    "docs": 11,
+    "cites": 132,
+    "h": 6,
+    "probable": false,
+    "aff": "Kasetsart University"
+   },
+   "pub": [
+    {
+     "t": "Mangroves",
+     "n": 7
+    },
+    {
+     "t": "Mangrove Restoration",
+     "n": 4
+    },
+    {
+     "t": "Sea-Level Rise Adaptation",
+     "n": 4
+    }
+   ]
+  },
+  {
+   "id": 18,
+   "title": "Asst. Prof. Dr.",
+   "name": "Tanuspong Pokavanich",
+   "nameTh": "ธนัสพงษ์ โภควนิช",
+   "pending": false,
+   "org": "Kasetsart University",
+   "orgShort": "KU",
+   "orgFull": "Kasetsart University",
+   "faculty": "Fisheries",
+   "dept": "Marine Science",
+   "position": "Lecturer",
+   "email": "ffistop@ku.ac.th",
+   "orcid": "https://orcid.org/0000-0002-8926-9182",
+   "profile": "",
+   "expertise": [
+    "Physical Oceanography"
+   ],
+   "themes": [
+    "Ocean & Climate"
+   ],
+   "country": "Thailand",
+   "scopus": {
+    "id": "35293226000",
+    "docs": 30,
+    "cites": 273,
+    "h": 9,
+    "probable": false,
+    "aff": "Kasetsart University"
+   },
+   "pub": [
+    {
+     "t": "Physical Oceanography",
+     "n": 5
+    },
+    {
+     "t": "Gulf of Thailand Hydrography",
+     "n": 4
+    },
+    {
+     "t": "Marine Debris",
+     "n": 2
+    }
+   ]
+  },
+  {
+   "id": 19,
+   "title": "Prof. Dr.",
+   "name": "Supawadee Poompuang",
+   "nameTh": "สุภาวดี พุ่มพวง",
+   "pending": false,
+   "org": "Kasetsart University",
+   "orgShort": "KU",
+   "orgFull": "Kasetsart University",
+   "faculty": "Fisheries",
+   "dept": "Aquaculture",
+   "position": "Lecturer",
+   "email": "supawadee.p@ku.ac.th",
+   "orcid": "https://orcid.org/0000-0002-9288-4039",
+   "profile": "https://kuias.ku.ac.th/professor/detail/64/%E0%B8%AA%E0%B8%B8%E0%B8%A0%E0%B8%B2%E0%B8%A7%E0%B8%94%E0%B8%B5-%E0%B8%9E%E0%B8%B8%E0%B9%88%E0%B8%A1%E0%B8%9E%E0%B8%A7%E0%B8%87?lang=en",
+   "expertise": [
+    "Aquaculture"
+   ],
+   "themes": [
+    "Aquaculture, Genetics & Biotech"
+   ],
+   "country": "Thailand",
+   "scopus": {
+    "id": "6507571333",
+    "docs": 53,
+    "cites": 827,
+    "h": 17,
+    "probable": false,
+    "aff": "Kasetsart University"
+   },
+   "pub": [
+    {
+     "t": "Selective Breeding",
+     "n": 6
+    },
+    {
+     "t": "Quantitative Genetics",
+     "n": 6
+    },
+    {
+     "t": "Aquaculture",
+     "n": 5
+    }
+   ]
+  },
+  {
+   "id": 20,
+   "title": "Prof. Dr.",
+   "name": "Suchana Chavanich",
+   "nameTh": "สุชนา ชวนิชย์",
+   "pending": false,
+   "org": "Chulalongkorn University",
+   "orgShort": "CU",
+   "orgFull": "Chulalongkorn University",
+   "faculty": "Science",
+   "dept": "Marine Science",
+   "position": "Lecturer",
+   "email": "suchana.c@chula.ac.th",
+   "orcid": "https://orcid.org/0000-0001-6266-7300",
+   "profile": "https://www.marine.sc.chula.ac.th/suchana-c/",
+   "expertise": [
+    "Marine Biology",
+    "Coral Reefs"
+   ],
+   "themes": [
+    "Coastal Ecosystems & Blue Carbon"
+   ],
+   "country": "Thailand",
+   "scopus": {
+    "id": "55962311300",
+    "docs": 102,
+    "cites": 2682,
+    "h": 27,
+    "probable": false,
+    "aff": "Chulalongkorn University"
+   },
+   "pub": [
+    {
+     "t": "Microplastics",
+     "n": 27
+    },
+    {
+     "t": "Coral Reefs",
+     "n": 15
+    },
+    {
+     "t": "Marine Invertebrate Ecology",
+     "n": 5
+    },
+    {
+     "t": "Bioremediation",
+     "n": 4
+    }
+   ]
+  },
+  {
+   "id": 21,
+   "title": "Prof. Dr.",
+   "name": "Voranop Viyakarn",
+   "nameTh": "วรณพ วิยกาญจน์",
+   "pending": false,
+   "org": "Chulalongkorn University",
+   "orgShort": "CU",
+   "orgFull": "Chulalongkorn University",
+   "faculty": "Science",
+   "dept": "Marine Science",
+   "position": "Lecturer",
+   "email": "voranop.v@chula.ac.th",
+   "orcid": "https://orcid.org/0000-0002-2089-6356",
+   "profile": "https://www.marine.sc.chula.ac.th/vvp-promotion-64/",
+   "expertise": [
+    "Oceanography",
+    "Coral Ecophysiology"
+   ],
+   "themes": [
+    "Coastal Ecosystems & Blue Carbon",
+    "Ocean & Climate"
+   ],
+   "country": "Thailand",
+   "scopus": {
+    "id": "6507880940",
+    "docs": 69,
+    "cites": 1338,
+    "h": 22,
+    "probable": false,
+    "aff": "Chulalongkorn University"
+   },
+   "pub": [
+    {
+     "t": "Microplastics",
+     "n": 18
+    },
+    {
+     "t": "Coral Reefs",
+     "n": 12
+    },
+    {
+     "t": "Coral Microbiome",
+     "n": 3
+    }
+   ]
+  },
+  {
+   "id": 22,
+   "title": "Asst. Prof. Dr.",
+   "name": "Sujaree Bureekul",
+   "nameTh": "สุจารี บุรีกุล",
+   "pending": false,
+   "org": "Chulalongkorn University",
+   "orgShort": "CU",
+   "orgFull": "Chulalongkorn University",
+   "faculty": "Science",
+   "dept": "Marine Science",
+   "position": "Lecturer",
+   "email": "",
+   "orcid": "https://orcid.org/0000-0002-1839-8972",
+   "profile": "https://www.marine.sc.chula.ac.th/sujaree-b/",
+   "expertise": [
+    "Marine Biogeochemistry",
+    "Marine Pollution",
+    "Air–Sea Interactions"
+   ],
+   "themes": [
+    "Ocean & Climate",
+    "Pollution & Environmental Chemistry"
+   ],
+   "country": "Thailand",
+   "scopus": {
+    "id": "56028219800",
+    "docs": 25,
+    "cites": 438,
+    "h": 10,
+    "probable": false,
+    "aff": "Chulalongkorn University"
+   },
+   "pub": [
+    {
+     "t": "Mercury Biogeochemistry",
+     "n": 8
+    },
+    {
+     "t": "Microplastics",
+     "n": 4
+    },
+    {
+     "t": "Atmospheric Aerosols",
+     "n": 2
+    },
+    {
+     "t": "Blue Carbon",
+     "n": 2
+    }
+   ]
+  },
+  {
+   "id": 23,
+   "title": "Prof. Dr.",
+   "name": "Anchana Prathep",
+   "nameTh": "อัญชนา ประเทพ",
+   "pending": false,
+   "org": "Prince of Songkla University",
+   "orgShort": "PSU",
+   "orgFull": "Prince of Songkla University",
+   "faculty": "Science",
+   "dept": "",
+   "position": "Lecturer",
+   "email": "anchana.p@psu.ac.th",
+   "orcid": "https://orcid.org/0000-0001-9411-3708",
+   "profile": "",
+   "expertise": [],
+   "themes": [],
+   "country": "Thailand",
+   "scopus": {
+    "id": "23390580400",
+    "docs": 95,
+    "cites": 2886,
+    "h": 25,
+    "probable": false,
+    "aff": "Prince of Songkla University"
+   },
+   "pub": [
+    {
+     "t": "Seagrass",
+     "n": 34
+    },
+    {
+     "t": "Blue Carbon",
+     "n": 13
+    },
+    {
+     "t": "Seagrass Restoration",
+     "n": 10
+    },
+    {
+     "t": "Dugong",
+     "n": 8
+    },
+    {
+     "t": "Sea Cucumbers",
+     "n": 3
+    }
+   ]
+  },
+  {
+   "id": 24,
+   "title": "Assoc. Prof. Dr.",
+   "name": "Ponlachart Chotikarn",
+   "nameTh": "พลชาติ โชติการ",
+   "pending": false,
+   "org": "Prince of Songkla University",
+   "orgShort": "PSU",
+   "orgFull": "Prince of Songkla University",
+   "faculty": "Environmental Management",
+   "dept": "",
+   "position": "Lecturer",
+   "email": "ponlachart.c@psu.ac.th",
+   "orcid": "https://orcid.org/0000-0002-9946-9188",
+   "profile": "https://cocc.psu.ac.th/ponlachart-chotikarn/",
+   "expertise": [
+    "Micrometeorology",
+    "Numerical Modeling",
+    "AI & Machine Learning",
+    "Data Science",
+    "IoT",
+    "GIS",
+    "Remote Sensing"
+   ],
+   "themes": [
+    "Ocean & Climate",
+    "Remote Sensing & Data"
+   ],
+   "country": "Thailand",
+   "scopus": {
+    "id": "36951628700",
+    "docs": 33,
+    "cites": 333,
+    "h": 11,
+    "probable": false,
+    "aff": "Prince of Songkla University"
+   },
+   "pub": [
+    {
+     "t": "Mangroves",
+     "n": 7
+    },
+    {
+     "t": "Coral Ecophysiology",
+     "n": 5
+    },
+    {
+     "t": "Macrophyte Photosynthesis",
+     "n": 4
+    },
+    {
+     "t": "Microplastics",
+     "n": 4
+    },
+    {
+     "t": "AI & Machine Learning",
+     "n": 4
+    }
+   ]
+  },
+  {
+   "id": 25,
+   "title": "Asst. Prof. Dr.",
+   "name": "Michael Jenke",
+   "nameTh": "",
+   "pending": false,
+   "org": "Kasetsart University",
+   "orgShort": "KU",
+   "orgFull": "Kasetsart University",
+   "faculty": "Forestry",
+   "dept": "Silviculture",
+   "position": "Lecturer",
+   "email": "fformaj@ku.ac.th",
+   "orcid": "https://orcid.org/0000-0002-5262-2608",
+   "profile": "https://research.ku.ac.th/forest/Person.aspx?id=670020",
+   "expertise": [
+    "Mangrove Restoration"
+   ],
+   "themes": [
+    "Coastal Ecosystems & Blue Carbon"
+   ],
+   "country": "Thailand",
+   "scopus": {
+    "id": "57194872127",
+    "docs": 18,
+    "cites": 135,
+    "h": 7,
+    "probable": false,
+    "aff": "Kasetsart University"
+   },
+   "pub": [
+    {
+     "t": "Mangrove Restoration",
+     "n": 9
+    },
+    {
+     "t": "Community Forestry",
+     "n": 4
+    },
+    {
+     "t": "Sea-Level Rise Adaptation",
+     "n": 2
+    },
+    {
+     "t": "Plantation Silviculture",
+     "n": 3
+    }
+   ]
+  },
+  {
+   "id": 26,
+   "title": "Dr.",
+   "name": "Sila Sukhavachana",
+   "nameTh": "สิลา สุขวัจน์",
+   "pending": false,
+   "org": "Kasetsart University",
+   "orgShort": "KU",
+   "orgFull": "Kasetsart University",
+   "faculty": "Fisheries",
+   "dept": "Aquaculture",
+   "position": "Lecturer",
+   "email": "sila.suk@ku.th",
+   "orcid": "https://orcid.org/0009-0007-6496-0122",
+   "profile": "",
+   "expertise": [
+    "Selective Breeding",
+    "Quantitative Genetics"
+   ],
+   "themes": [
+    "Aquaculture, Genetics & Biotech"
+   ],
+   "country": "Thailand",
+   "scopus": {
+    "id": "57200223748",
+    "docs": 17,
+    "cites": 216,
+    "h": 8,
+    "probable": false,
+    "aff": "Kasetsart University"
+   },
+   "pub": [
+    {
+     "t": "Selective Breeding",
+     "n": 7
+    },
+    {
+     "t": "Aquaculture",
+     "n": 4
+    },
+    {
+     "t": "Quantitative Genetics",
+     "n": 4
+    }
+   ]
+  },
+  {
+   "id": 27,
+   "title": "Dr.",
+   "name": "Chontida Phuthaworn",
+   "nameTh": "ชลธิดา ภูถาวร",
+   "pending": false,
+   "org": "Kasetsart University",
+   "orgShort": "KU",
+   "orgFull": "Kasetsart University",
+   "faculty": "Fisheries",
+   "dept": "Aquaculture",
+   "position": "Lecturer",
+   "email": "chontida.phut@ku.th",
+   "orcid": "https://orcid.org/0000-0001-9103-2945",
+   "profile": "",
+   "expertise": [
+    "Quantitative Genetics",
+    "Selective Breeding",
+    "Aquaculture Genetics"
+   ],
+   "themes": [
+    "Aquaculture, Genetics & Biotech"
+   ],
+   "country": "Thailand",
+   "scopus": {
+    "id": "57191038310",
+    "docs": 8,
+    "cites": 88,
+    "h": 4,
+    "probable": false,
+    "aff": "Kasetsart University"
+   },
+   "pub": [
+    {
+     "t": "Aquaculture Genetics",
+     "n": 4
+    }
+   ]
+  },
+  {
+   "id": 28,
+   "title": "",
+   "name": "Areena Lantam",
+   "nameTh": "อารีนา ลันตัม",
+   "pending": false,
+   "org": "Prince of Songkla University",
+   "orgShort": "PSU",
+   "orgFull": "Prince of Songkla University",
+   "faculty": "",
+   "dept": "",
+   "position": "Researcher",
+   "email": "",
+   "orcid": "https://orcid.org/0000-0002-7783-6346",
+   "profile": "",
+   "expertise": [
+    "Analytical Chemistry",
+    "Environmental Monitoring"
+   ],
+   "themes": [
+    "Pollution & Environmental Chemistry"
+   ],
+   "country": "Thailand",
+   "scopus": {
+    "id": "57219125339",
+    "docs": 4,
+    "cites": 37,
+    "h": 2,
+    "probable": false,
+    "aff": "Prince of Songkla University"
+   }
+  },
+  {
+   "id": 29,
+   "title": "Prof. Dr.",
+   "name": "Shovonlal Roy",
+   "nameTh": "",
+   "pending": false,
+   "org": "University of Reading",
+   "orgShort": "University of Reading",
+   "orgFull": "University of Reading",
+   "faculty": "",
+   "dept": "",
+   "position": "Lecturer",
+   "email": "shovonlal.roy@reading.ac.uk",
+   "orcid": "https://orcid.org/0000-0003-2543-924X",
+   "profile": "https://www.reading.ac.uk/ges/staff/professor-shovonlal-roy",
+   "expertise": [
+    "Environmental Science",
+    "Marine Ecosystems"
+   ],
+   "themes": [
+    "Coastal Ecosystems & Blue Carbon"
+   ],
+   "country": "United Kingdom",
+   "scopus": {
+    "id": "8595227500",
+    "docs": 51,
+    "cites": 2443,
+    "h": 25,
+    "probable": false,
+    "aff": "University of Reading"
+   },
+   "pub": [
+    {
+     "t": "Phytoplankton",
+     "n": 10
+    },
+    {
+     "t": "Marine Ecosystems",
+     "n": 12
+    },
+    {
+     "t": "Ocean Colour Remote Sensing",
+     "n": 6
+    },
+    {
+     "t": "Epidemic Modelling",
+     "n": 2
+    }
+   ]
+  },
+  {
+   "id": 30,
+   "title": "Dr.",
+   "name": "Sumaetee Tangwancharoen",
+   "nameTh": "สุเมธี ตั้งวันเจริญ",
+   "pending": false,
+   "org": "Chulalongkorn University",
+   "orgShort": "CU",
+   "orgFull": "Chulalongkorn University",
+   "faculty": "Science",
+   "dept": "Botany",
+   "position": "Lecturer",
+   "email": "sumaetee.t@chula.ac.th",
+   "orcid": "",
+   "profile": "",
+   "expertise": [
+    "Evolutionary Genetics",
+    "Climate Adaptation",
+    "Conservation Genetics",
+    "Aquatic Animal Genetics"
+   ],
+   "themes": [
+    "Aquaculture, Genetics & Biotech",
+    "Ocean & Climate"
+   ],
+   "country": "Thailand",
+   "scopus": {
+    "id": "57190384416",
+    "docs": 4,
+    "cites": 88,
+    "h": 3,
+    "probable": true,
+    "aff": "The University of Vermont"
+   }
+  },
+  {
+   "id": 31,
+   "title": "",
+   "name": "Thunchanok Thammasanya",
+   "nameTh": "ธัญชนก ธรรมสัญญา",
+   "pending": false,
+   "org": "Prince of Songkla University",
+   "orgShort": "PSU",
+   "orgFull": "Prince of Songkla University",
+   "faculty": "Environmental Management",
+   "dept": "",
+   "position": "Ph.D. Candidate",
+   "email": "",
+   "orcid": "https://orcid.org/0000-0003-2193-6046",
+   "profile": "",
+   "expertise": [],
+   "themes": [],
+   "country": "Thailand",
+   "scopus": {
+    "id": "57221248575",
+    "docs": 3,
+    "cites": 105,
+    "h": 2,
+    "probable": false,
+    "aff": "Prince of Songkla University"
+   },
+   "pub": [
+    {
+     "t": "AI & Machine Learning",
+     "n": 1
+    },
+    {
+     "t": "Microplastics",
+     "n": 1
+    }
+   ]
+  },
+  {
+   "id": 32,
+   "title": "",
+   "name": "Yinglak Patiphankan",
+   "nameTh": "ยิ่งลักษณ์ ปฏิภาณการ",
+   "pending": true,
+   "org": "",
+   "orgShort": "",
+   "orgFull": "",
+   "faculty": "",
+   "dept": "",
+   "position": "",
+   "email": "",
+   "orcid": "",
+   "profile": "",
+   "expertise": [],
+   "themes": [],
+   "country": "Thailand"
+  },
+  {
+   "id": 33,
+   "title": "",
+   "name": "Kanchaporn Aumnate",
+   "nameTh": "",
+   "pending": false,
+   "org": "Kasetsart University",
+   "orgShort": "KU",
+   "orgFull": "Kasetsart University",
+   "faculty": "Forestry",
+   "dept": "",
+   "position": "",
+   "email": "kanchaporn.a@ku.th",
+   "orcid": "",
+   "profile": "",
+   "expertise": [],
+   "themes": [],
+   "country": "Thailand"
+  },
+  {
+   "id": 34,
+   "title": "",
+   "name": "Waranya Khruahuab",
+   "nameTh": "",
+   "pending": false,
+   "org": "",
+   "orgShort": "",
+   "orgFull": "",
+   "faculty": "",
+   "dept": "",
+   "position": "",
+   "email": "",
+   "orcid": "",
+   "profile": "",
+   "expertise": [],
+   "themes": [],
+   "country": "Thailand"
+  },
+  {
+   "id": 35,
+   "title": "",
+   "name": "Pathomwat Saetang",
+   "nameTh": "ปฐมวรรธ แซ่ตั้ง",
+   "pending": true,
+   "org": "Chulalongkorn University",
+   "orgShort": "CU",
+   "orgFull": "Chulalongkorn University",
+   "faculty": "Science",
+   "dept": "Botany",
+   "position": "Research Assistant",
+   "email": "",
+   "orcid": "",
+   "profile": "",
+   "expertise": [],
+   "themes": [],
+   "country": "Thailand"
+  },
+  {
+   "id": 36,
+   "title": "",
+   "name": "Pranai Somwong",
+   "nameTh": "ประนัย โสมวงศ์",
+   "pending": true,
+   "org": "Kasetsart University",
+   "orgShort": "KU",
+   "orgFull": "Kasetsart University",
+   "faculty": "",
+   "dept": "",
+   "position": "Alumni",
+   "email": "",
+   "orcid": "",
+   "profile": "",
+   "expertise": [],
+   "themes": [],
+   "country": "Thailand"
+  },
+  {
+   "id": 37,
+   "title": "",
+   "name": "Phongsan Sananai",
+   "nameTh": "พงศ์สรรค์ ศนานัยต์",
+   "pending": true,
+   "org": "",
+   "orgShort": "",
+   "orgFull": "",
+   "faculty": "",
+   "dept": "",
+   "position": "",
+   "email": "",
+   "orcid": "",
+   "profile": "",
+   "expertise": [],
+   "themes": [],
+   "country": "Thailand"
+  },
+  {
+   "id": 38,
+   "title": "",
+   "name": "Phanlop Chatyanon",
+   "nameTh": "พัลลภ ชาตยานนบ์",
+   "pending": true,
+   "org": "",
+   "orgShort": "",
+   "orgFull": "",
+   "faculty": "",
+   "dept": "",
+   "position": "",
+   "email": "",
+   "orcid": "",
+   "profile": "",
+   "expertise": [],
+   "themes": [],
+   "country": "Thailand"
+  },
+  {
+   "id": 39,
+   "title": "",
+   "name": "Themwing Pansomboon",
+   "nameTh": "",
+   "pending": false,
+   "org": "",
+   "orgShort": "",
+   "orgFull": "",
+   "faculty": "",
+   "dept": "",
+   "position": "",
+   "email": "",
+   "orcid": "",
+   "profile": "",
+   "expertise": [],
+   "themes": [],
+   "country": "Thailand"
+  },
+  {
+   "id": 40,
+   "title": "Ms.",
+   "name": "Vasawan Worrawtanathum",
+   "nameTh": "",
+   "pending": false,
+   "org": "Kasetsart University",
+   "orgShort": "KU",
+   "orgFull": "Kasetsart University",
+   "faculty": "Fisheries",
+   "dept": "",
+   "position": "Researcher",
+   "email": "",
+   "orcid": "",
+   "profile": "",
+   "expertise": [],
+   "themes": [],
+   "country": "Thailand",
+   "scopus": {
+    "id": "59233605100",
+    "docs": 1,
+    "cites": 13,
+    "h": 1,
+    "probable": false,
+    "aff": "Kasetsart University",
+    "name": "Worrawatanathum, Vasawan"
+   }
+  },
+  {
+   "id": 41,
+   "title": "Dr.",
+   "name": "Rungnapa Kaewthongrach",
+   "nameTh": "รุ่งนภา แก้วทองราช",
+   "pending": false,
+   "org": "GISTDA",
+   "orgShort": "GISTDA",
+   "orgFull": "GISTDA",
+   "faculty": "",
+   "dept": "",
+   "position": "Researcher",
+   "email": "",
+   "orcid": "",
+   "profile": "",
+   "expertise": [],
+   "themes": [],
+   "country": "Thailand",
+   "scopus": {
+    "id": "57208542989",
+    "docs": 18,
+    "cites": 269,
+    "h": 7,
+    "probable": false,
+    "aff": "Geo-Informatics and Space Technology Development Agency"
+   }
+  },
+  {
+   "id": 42,
+   "title": "",
+   "name": "Songkran Thongthawee",
+   "nameTh": "สงกรานต์ ทองทวี",
+   "pending": false,
+   "org": "Kasetsart University",
+   "orgShort": "KU",
+   "orgFull": "Kasetsart University",
+   "faculty": "",
+   "dept": "",
+   "position": "Ph.D. Candidate",
+   "email": "",
+   "orcid": "",
+   "profile": "",
+   "expertise": [],
+   "themes": [],
+   "country": "Thailand",
+   "scopus": {
+    "id": "37066633500",
+    "docs": 8,
+    "cites": 64,
+    "h": 1,
+    "probable": false,
+    "aff": "Kasetsart University, Kamphaeng Saen Campus"
+   }
+  },
+  {
+   "id": 43,
+   "title": "",
+   "name": "Palida Arlee",
+   "nameTh": "ปาลิดา อาหลี",
+   "pending": false,
+   "org": "Prince of Songkla University",
+   "orgShort": "PSU",
+   "orgFull": "Prince of Songkla University",
+   "faculty": "Environmental Management",
+   "dept": "",
+   "position": "Master's Student",
+   "email": "",
+   "orcid": "",
+   "profile": "",
+   "expertise": [],
+   "themes": [],
+   "country": "Thailand"
+  },
+  {
+   "id": 44,
+   "title": "",
+   "name": "Panisara Jitkeaw",
+   "nameTh": "ปาณิสรา จิตต์แก้ว",
+   "pending": false,
+   "org": "Prince of Songkla University",
+   "orgShort": "PSU",
+   "orgFull": "Prince of Songkla University",
+   "faculty": "Environmental Management",
+   "dept": "",
+   "position": "Master's Student",
+   "email": "",
+   "orcid": "",
+   "profile": "",
+   "expertise": [],
+   "themes": [],
+   "country": "Thailand",
+   "scopus": {
+    "id": "58650730100",
+    "docs": 3,
+    "cites": 23,
+    "h": 1,
+    "probable": false,
+    "aff": "Prince of Songkla University",
+    "name": "Jitkaew, Panisara"
+   }
+  },
+  {
+   "id": 45,
+   "title": "",
+   "name": "Nisarat Prangsuwan",
+   "nameTh": "นิศารัตน์ ปรางสุวรรณ",
+   "pending": true,
+   "org": "",
+   "orgShort": "",
+   "orgFull": "",
+   "faculty": "",
+   "dept": "",
+   "position": "",
+   "email": "",
+   "orcid": "",
+   "profile": "",
+   "expertise": [],
+   "themes": [],
+   "country": "Thailand"
+  },
+  {
+   "id": 46,
+   "title": "",
+   "name": "Preeyanut Jitkeaw",
+   "nameTh": "ปรียานุช จิตต์แก้ว",
+   "pending": false,
+   "org": "Prince of Songkla University",
+   "orgShort": "PSU",
+   "orgFull": "Prince of Songkla University",
+   "faculty": "Environmental Management",
+   "dept": "",
+   "position": "",
+   "email": "",
+   "orcid": "",
+   "profile": "",
+   "expertise": [],
+   "themes": [],
+   "country": "Thailand"
+  },
+  {
+   "id": 47,
+   "title": "Asst. Prof. Dr.",
+   "name": "Manasawan Saengsakda",
+   "nameTh": "มนัสวัณฏ์ แสงศักดา",
+   "pending": false,
+   "org": "Prince of Songkla University",
+   "orgShort": "PSU",
+   "orgFull": "Prince of Songkla University",
+   "faculty": "Environmental Management",
+   "dept": "",
+   "position": "Lecturer",
+   "email": "manasawan.s@psu.ac.th",
+   "orcid": "https://orcid.org/0000-0002-5898-7261",
+   "profile": "",
+   "expertise": [
+    "Biology",
+    "Coastal Zone Management",
+    "Mangroves",
+    "Coastal Ecology",
+    "Molecular Biology"
+   ],
+   "themes": [
+    "Aquaculture, Genetics & Biotech",
+    "Coastal Ecosystems & Blue Carbon"
+   ],
+   "country": "Thailand",
+   "scopus": {
+    "id": "25227795400",
+    "docs": 6,
+    "cites": 41,
+    "h": 1,
+    "probable": false,
+    "aff": "Prince of Songkla University"
+   },
+   "pub": [
+    {
+     "t": "Sea-Level Rise Adaptation",
+     "n": 1
+    },
+    {
+     "t": "Mangroves",
+     "n": 1
+    }
+   ]
+  },
+  {
+   "id": 48,
+   "title": "Mr.",
+   "name": "Pathompong Prammaneechot",
+   "nameTh": "ปฐมพงศ์ พรามณีโชติ",
+   "pending": false,
+   "org": "Prince of Songkla University",
+   "orgShort": "PSU",
+   "orgFull": "Prince of Songkla University",
+   "faculty": "Environmental Management",
+   "dept": "",
+   "position": "Researcher",
+   "email": "",
+   "orcid": "https://orcid.org/0000-0003-0253-8608",
+   "profile": "",
+   "expertise": [],
+   "themes": [],
+   "country": "Thailand",
+   "scopus": {
+    "id": "57215829845",
+    "docs": 7,
+    "cites": 44,
+    "h": 4,
+    "probable": false,
+    "aff": "Prince of Songkla University",
+    "name": "Pramneechote, Pathompong"
+   },
+   "pub": [
+    {
+     "t": "Macrophyte Photosynthesis",
+     "n": 3
+    },
+    {
+     "t": "Coral Ecophysiology",
+     "n": 3
+    }
+   ]
+  },
+  {
+   "id": 49,
+   "title": "Miss",
+   "name": "Rattanaporn Sengkhim",
+   "nameTh": "รัตนาภรณ์ เซ่งขิม",
+   "pending": false,
+   "org": "Prince of Songkla University",
+   "orgShort": "PSU",
+   "orgFull": "Prince of Songkla University",
+   "faculty": "Environmental Management",
+   "dept": "",
+   "position": "Researcher",
+   "email": "",
+   "orcid": "",
+   "profile": "",
+   "expertise": [],
+   "themes": [],
+   "country": "Thailand",
+   "scopus": {
+    "id": "57368300000",
+    "docs": 2,
+    "cites": 11,
+    "h": 2,
+    "probable": false,
+    "aff": "Prince of Songkla University"
+   }
+  },
+  {
+   "id": 50,
+   "title": "Miss",
+   "name": "Natthida Thammakirati",
+   "nameTh": "ณัฐธิดา ธรรมกิรติ",
+   "pending": false,
+   "org": "Prince of Songkla University",
+   "orgShort": "PSU",
+   "orgFull": "Prince of Songkla University",
+   "faculty": "Environmental Management",
+   "dept": "",
+   "position": "Researcher",
+   "email": "",
+   "orcid": "",
+   "profile": "",
+   "expertise": [],
+   "themes": [],
+   "country": "Thailand",
+   "scopus": {
+    "id": "59740526900",
+    "docs": 1,
+    "cites": 0,
+    "h": 1,
+    "probable": false,
+    "aff": "Prince of Songkla University",
+    "name": "Thammakeerati, Natthida"
+   }
+  },
+  {
+   "id": 51,
+   "title": "Miss",
+   "name": "Nattacha Khanthasimachalerm",
+   "nameTh": "ณัฐชา ขันธะสีมาเฉลิม",
+   "pending": false,
+   "org": "Prince of Songkla University",
+   "orgShort": "PSU",
+   "orgFull": "Prince of Songkla University",
+   "faculty": "Environmental Management",
+   "dept": "",
+   "position": "Researcher",
+   "email": "",
+   "orcid": "",
+   "profile": "",
+   "expertise": [],
+   "themes": [],
+   "country": "Thailand",
+   "scopus": {
+    "id": "58687492200",
+    "docs": 2,
+    "cites": 13,
+    "h": 1,
+    "probable": false,
+    "aff": "Prince of Songkla University"
+   }
+  },
+  {
+   "id": 52,
+   "title": "Miss",
+   "name": "Thanyapat Chamnina",
+   "nameTh": "ธัญญาภัทร ชำนินา",
+   "pending": false,
+   "org": "Prince of Songkla University",
+   "orgShort": "PSU",
+   "orgFull": "Prince of Songkla University",
+   "faculty": "Environmental Management",
+   "dept": "",
+   "position": "Researcher",
+   "email": "",
+   "orcid": "",
+   "profile": "",
+   "expertise": [],
+   "themes": [],
+   "country": "Thailand"
+  },
+  {
+   "id": 53,
+   "title": "",
+   "name": "Maneewan Pongjibnit",
+   "nameTh": "",
+   "pending": false,
+   "org": "Kasetsart University",
+   "orgShort": "KU",
+   "orgFull": "Kasetsart University",
+   "faculty": "",
+   "dept": "",
+   "position": "",
+   "email": "maneewan.pongj@ku.th",
+   "orcid": "",
+   "profile": "",
+   "expertise": [],
+   "themes": [],
+   "country": "Thailand"
+  },
+  {
+   "id": 54,
+   "title": "",
+   "name": "Panyaporn Chiaplaem",
+   "nameTh": "",
+   "pending": false,
+   "org": "Kasetsart University",
+   "orgShort": "KU",
+   "orgFull": "Kasetsart University",
+   "faculty": "Forestry",
+   "dept": "",
+   "position": "Student",
+   "email": "panyaporn.c@ku.th",
+   "orcid": "",
+   "profile": "",
+   "expertise": [],
+   "themes": [],
+   "country": "Thailand"
+  },
+  {
+   "id": 55,
+   "title": "",
+   "name": "Palita Longlerrit",
+   "nameTh": "ปาลิตา ล่องลือฤทธิ์",
+   "pending": false,
+   "org": "Kasetsart University",
+   "orgShort": "KU",
+   "orgFull": "Kasetsart University",
+   "faculty": "Forestry",
+   "dept": "Forest Biology",
+   "position": "Student",
+   "email": "palita.lo@ku.th",
+   "orcid": "",
+   "profile": "",
+   "expertise": [],
+   "themes": [],
+   "country": "Thailand"
+  },
+  {
+   "id": 56,
+   "title": "",
+   "name": "Puntaree Phetchot",
+   "nameTh": "ปัณฑารีย์ เพชรโชติ",
+   "pending": true,
+   "org": "Kasetsart University",
+   "orgShort": "KU",
+   "orgFull": "Kasetsart University",
+   "faculty": "Forestry",
+   "dept": "",
+   "position": "Other",
+   "email": "puntaree.pa@ku.th",
+   "orcid": "",
+   "profile": "",
+   "expertise": [],
+   "themes": [],
+   "country": "Thailand"
+  },
+  {
+   "id": 57,
+   "title": "",
+   "name": "Natchayisa Chantreerakul",
+   "nameTh": "",
+   "pending": false,
+   "org": "Kasetsart University",
+   "orgShort": "KU",
+   "orgFull": "Kasetsart University",
+   "faculty": "Forestry",
+   "dept": "",
+   "position": "Other",
+   "email": "natchayisa.j@ku.th",
+   "orcid": "",
+   "profile": "",
+   "expertise": [],
+   "themes": [],
+   "country": "Thailand"
+  },
+  {
+   "id": 58,
+   "title": "Mr.",
+   "name": "Thiramet Dappan",
+   "nameTh": "ธีรเมธ ดับปาล",
+   "pending": true,
+   "org": "Walailak University",
+   "orgShort": "Walailak University",
+   "orgFull": "Walailak University",
+   "faculty": "",
+   "dept": "",
+   "position": "Student",
+   "email": "Thiramet.da@mail.wu.ac.th",
+   "orcid": "",
+   "profile": "",
+   "expertise": [],
+   "themes": [],
+   "country": "Thailand"
+  },
+  {
+   "id": 59,
+   "title": "Assoc. Prof. Dr.",
+   "name": "Jaruwan Mayakun",
+   "nameTh": "จารุวรรณ มะยะกูล",
+   "pending": false,
+   "org": "Prince of Songkla University",
+   "orgShort": "PSU",
+   "orgFull": "Prince of Songkla University",
+   "faculty": "Science",
+   "dept": "",
+   "position": "Lecturer",
+   "email": "jaruwan.may@psu.ac.th",
+   "orcid": "https://orcid.org/0000-0001-8369-8632",
+   "profile": "",
+   "expertise": [],
+   "themes": [],
+   "country": "Thailand",
+   "scopus": {
+    "id": "25936598000",
+    "docs": 52,
+    "cites": 584,
+    "h": 12,
+    "probable": false,
+    "aff": "Prince of Songkla University"
+   },
+   "pub": [
+    {
+     "t": "Macroalgae",
+     "n": 10
+    },
+    {
+     "t": "Seaweed Bioplastics",
+     "n": 10
+    },
+    {
+     "t": "Algal Microbiome",
+     "n": 4
+    },
+    {
+     "t": "Seaweed Bioactive Compounds",
+     "n": 3
+    }
+   ]
+  },
+  {
+   "id": 60,
+   "title": "Ms.",
+   "name": "Sophawadee Muangham",
+   "nameTh": "",
+   "pending": false,
+   "org": "King Mongkut's Institute of Technology Ladkrabang",
+   "orgShort": "King Mongkut's Institute of Technology Ladkrabang",
+   "orgFull": "King Mongkut's Institute of Technology Ladkrabang",
+   "faculty": "School of Agricultural Technology",
+   "dept": "Department of Animal Production Technology and Fisheries",
+   "position": "Master's Student",
+   "email": "",
+   "orcid": "",
+   "profile": "",
+   "expertise": [],
+   "themes": [],
+   "country": "Thailand",
+   "scopus": {
+    "id": "60614486200",
+    "docs": 2,
+    "cites": 0,
+    "h": 0,
+    "probable": true,
+    "aff": "Burapha University"
+   }
+  },
+  {
+   "id": 61,
+   "title": "Asst. Prof. Dr.",
+   "name": "Siraprapha Premcharoen",
+   "nameTh": "ศิรประภา เปรมเจริญ",
+   "pending": false,
+   "org": "Kasetsart University",
+   "orgShort": "KU",
+   "orgFull": "Kasetsart University",
+   "faculty": "Liberal Arts and Science",
+   "dept": "Department of Science and Bioinnovation",
+   "position": "Lecturer",
+   "email": "faassrp@ku.ac.th",
+   "orcid": "",
+   "profile": "",
+   "expertise": [],
+   "themes": [],
+   "country": "Thailand",
+   "scopus": {
+    "id": "6505541916",
+    "docs": 2,
+    "cites": 28,
+    "h": 2,
+    "probable": false,
+    "aff": "Kasetsart University, Kamphaeng Saen Campus"
+   }
+  },
+  {
+   "id": 62,
+   "title": "Miss",
+   "name": "Natthida Jantawong",
+   "nameTh": "ณัฐธิดา จันทวงศ์",
+   "pending": false,
+   "org": "Kasetsart University",
+   "orgShort": "KU",
+   "orgFull": "Kasetsart University",
+   "faculty": "",
+   "dept": "",
+   "position": "Researcher",
+   "email": "",
+   "orcid": "",
+   "profile": "",
+   "expertise": [],
+   "themes": [],
+   "country": "Thailand",
+   "scopus": {
+    "id": "58667032200",
+    "docs": 2,
+    "cites": 14,
+    "h": 2,
+    "probable": false,
+    "aff": "Kasetsart University"
+   }
+  },
+  {
+   "id": 63,
+   "title": "Dr.",
+   "name": "Unchun Tuntates",
+   "nameTh": "อัญชัญ ตัณฑเทศ",
+   "pending": false,
+   "org": "Srinakharinwirot University",
+   "orgShort": "Srinakharinwirot University",
+   "orgFull": "Srinakharinwirot University",
+   "faculty": "Environmental Culture and Ecotourism",
+   "dept": "",
+   "position": "Lecturer",
+   "email": "unchun@g.swu.ac.th",
+   "orcid": "",
+   "profile": "",
+   "expertise": [],
+   "themes": [],
+   "country": "Thailand"
+  },
+  {
+   "id": 64,
+   "title": "",
+   "name": "Laksami Kamonphatthana",
+   "nameTh": "ลักษมี กมลพัฒนะ",
+   "pending": true,
+   "org": "Digital Government Development Agency (DGA)",
+   "orgShort": "Digital Government Development Agency (DGA)",
+   "orgFull": "Digital Government Development Agency (DGA)",
+   "faculty": "",
+   "dept": "",
+   "position": "Other",
+   "email": "",
+   "orcid": "",
+   "profile": "",
+   "expertise": [],
+   "themes": [],
+   "country": "Thailand"
+  },
+  {
+   "id": 65,
+   "title": "Miss",
+   "name": "Araf Laerosa",
+   "nameTh": "อารัฟ แลโรซา",
+   "pending": false,
+   "org": "Prince of Songkla University",
+   "orgShort": "PSU",
+   "orgFull": "Prince of Songkla University",
+   "faculty": "",
+   "dept": "Coastal Oceanography and Climate Change Research Center",
+   "position": "Researcher",
+   "email": "",
+   "orcid": "",
+   "profile": "",
+   "expertise": [],
+   "themes": [],
+   "country": "Thailand",
+   "scopus": {
+    "id": "58033951100",
+    "docs": 5,
+    "cites": 24,
+    "h": 1,
+    "probable": false,
+    "aff": "Prince of Songkla University"
+   }
+  },
+  {
+   "id": 66,
+   "title": "Mr.",
+   "name": "Apichan Thongkrajang",
+   "nameTh": "อภิชัน ทองกระจ่าง",
+   "pending": false,
+   "org": "Kasetsart University",
+   "orgShort": "KU",
+   "orgFull": "Kasetsart University",
+   "faculty": "",
+   "dept": "",
+   "position": "Master's Student",
+   "email": "apichan.t@ku.th",
+   "orcid": "",
+   "profile": "",
+   "expertise": [],
+   "themes": [],
+   "country": "Thailand"
+  },
+  {
+   "id": 67,
+   "title": "",
+   "name": "Benchawan Chanklom",
+   "nameTh": "เบญจวรรณ จันทร์กลม",
+   "pending": true,
+   "org": "Department of National Parks, Wildlife and Plant Conservation",
+   "orgShort": "Department of National Parks, Wildlife and Plant Conservation",
+   "orgFull": "Department of National Parks, Wildlife and Plant Conservation",
+   "faculty": "",
+   "dept": "",
+   "position": "Other",
+   "email": "",
+   "orcid": "",
+   "profile": "",
+   "expertise": [],
+   "themes": [],
+   "country": "Thailand"
+  },
+  {
+   "id": 68,
+   "title": "Dr.",
+   "name": "Jatdilok Titioatchasai",
+   "nameTh": "เจตดิลก ฐิติอัชฌาสัย",
+   "pending": false,
+   "org": "Prince of Songkla University",
+   "orgShort": "PSU",
+   "orgFull": "Prince of Songkla University",
+   "faculty": "Innovative Agriculture, Fisheries and Food (Surat Thani Campus)",
+   "dept": "",
+   "position": "Lecturer",
+   "email": "jatdilok.t@psu.ac.th",
+   "orcid": "https://orcid.org/0000-0001-5203-8658",
+   "profile": "",
+   "expertise": [],
+   "themes": [],
+   "country": "Thailand",
+   "scopus": {
+    "id": "57207765070",
+    "docs": 10,
+    "cites": 32,
+    "h": 4,
+    "probable": false,
+    "aff": "Prince of Songkla University"
+   },
+   "pub": [
+    {
+     "t": "Seagrass Restoration",
+     "n": 2
+    },
+    {
+     "t": "Algal Microbiome",
+     "n": 4
+    },
+    {
+     "t": "Environmental DNA",
+     "n": 2
+    }
+   ]
+  },
+  {
+   "id": 69,
+   "title": "Asst. Prof. Dr.",
+   "name": "Yaowaret Jantakat",
+   "nameTh": "เยาวเรศ จันทะคัต",
+   "pending": false,
+   "org": "Rajamangala University of Technology Isan",
+   "orgShort": "Rajamangala University of Technology Isan",
+   "orgFull": "Rajamangala University of Technology Isan",
+   "faculty": "Sciences and Liberal Arts",
+   "dept": "",
+   "position": "Lecturer",
+   "email": "yaowaret.ja@rmuti.ac.th",
+   "orcid": "",
+   "profile": "",
+   "expertise": [],
+   "themes": [],
+   "country": "Thailand",
+   "scopus": {
+    "id": "55348773800",
+    "docs": 17,
+    "cites": 8,
+    "h": 1,
+    "probable": false,
+    "aff": "Rajamangala University of Technology Isan"
+   }
+  },
+  {
+   "id": 70,
+   "title": "",
+   "name": "Parptawan Butsaparoek",
+   "nameTh": "ภาพตะวัน บุษปฤกษ์",
+   "pending": false,
+   "org": "Kasetsart University",
+   "orgShort": "KU",
+   "orgFull": "Kasetsart University",
+   "faculty": "Fisheries",
+   "dept": "",
+   "position": "Other",
+   "email": "",
+   "orcid": "",
+   "profile": "",
+   "expertise": [],
+   "themes": [],
+   "country": "Thailand"
+  },
+  {
+   "id": 71,
+   "title": "Dr.",
+   "name": "Phurith Meeprom",
+   "nameTh": "ภูริต มีพร้อม",
+   "pending": false,
+   "org": "Burapha University",
+   "orgShort": "Burapha University",
+   "orgFull": "Burapha University",
+   "faculty": "Geoinformatics",
+   "dept": "",
+   "position": "Researcher",
+   "email": "phurith@buu.ac.th",
+   "orcid": "",
+   "profile": "",
+   "expertise": [],
+   "themes": [],
+   "country": "Thailand",
+   "scopus": {
+    "id": "59948850900",
+    "docs": 5,
+    "cites": 0,
+    "h": 1,
+    "probable": false,
+    "aff": "Burapha University"
+   }
+  },
+  {
+   "id": 72,
+   "title": "Capt.",
+   "name": "Sommat Niemnil",
+   "nameTh": "สมมาตร์ เนียมนิล",
+   "pending": false,
+   "org": "Navamindradhiraj University",
+   "orgShort": "Navamindradhiraj University",
+   "orgFull": "Navamindradhiraj University",
+   "faculty": "Science and Health Technology",
+   "dept": "COSTAT",
+   "position": "Lecturer",
+   "email": "",
+   "orcid": "",
+   "profile": "",
+   "expertise": [],
+   "themes": [],
+   "country": "Thailand",
+   "scopus": {
+    "id": "24370327900",
+    "docs": 4,
+    "cites": 123,
+    "h": 3,
+    "probable": true,
+    "aff": "Medical Technology Council of Thailand"
+   }
+  },
+  {
+   "id": 73,
+   "title": "Miss",
+   "name": "Nanphanita Puangtongthip Sumpavaphol",
+   "nameTh": "นันท์พนิตา พวงทองทิพย์ สัมภวะผล",
+   "pending": false,
+   "org": "Phranakhon Rajabhat University",
+   "orgShort": "Phranakhon Rajabhat University",
+   "orgFull": "Phranakhon Rajabhat University",
+   "faculty": "Humanities and Social Sciences",
+   "dept": "",
+   "position": "Student",
+   "email": "",
+   "orcid": "",
+   "profile": "",
+   "expertise": [],
+   "themes": [],
+   "country": "Thailand"
+  },
+  {
+   "id": 74,
+   "title": "Miss",
+   "name": "Yuhana Kusuma Wardani",
+   "nameTh": "",
+   "pending": false,
+   "org": "Prince of Songkla University",
+   "orgShort": "PSU",
+   "orgFull": "Prince of Songkla University",
+   "faculty": "Technology and Environment",
+   "dept": "",
+   "position": "Master's Student",
+   "email": "",
+   "orcid": "",
+   "profile": "",
+   "expertise": [],
+   "themes": [],
+   "country": "Thailand"
+  },
+  {
+   "id": 75,
+   "title": "Mr.",
+   "name": "Tin Myo Thu",
+   "nameTh": "",
+   "pending": false,
+   "org": "Prince of Songkla University",
+   "orgShort": "PSU",
+   "orgFull": "Prince of Songkla University",
+   "faculty": "",
+   "dept": "",
+   "position": "",
+   "email": "",
+   "orcid": "",
+   "profile": "",
+   "expertise": [],
+   "themes": [],
+   "country": "Thailand",
+   "scopus": {
+    "id": "60286497000",
+    "docs": 2,
+    "cites": 2,
+    "h": 1,
+    "probable": false,
+    "aff": "Prince of Songkla University"
+   }
+  },
+  {
+   "id": 76,
+   "title": "",
+   "name": "Suksiri Choklin",
+   "nameTh": "สุขศิริ ชูกลิ่น",
+   "pending": false,
+   "org": "Prince of Songkla University",
+   "orgShort": "PSU",
+   "orgFull": "Prince of Songkla University",
+   "faculty": "Technology and Environment",
+   "dept": "",
+   "position": "Researcher",
+   "email": "",
+   "orcid": "",
+   "profile": "",
+   "expertise": [],
+   "themes": [],
+   "country": "Thailand",
+   "scopus": {
+    "id": "58176533100",
+    "docs": 1,
+    "cites": 2,
+    "h": 1,
+    "probable": false,
+    "aff": "Prince of Songkla University",
+    "name": "Chooklin, Suksiri"
+   }
+  },
+  {
+   "id": 77,
+   "title": "",
+   "name": "Riza Adriat",
+   "nameTh": "",
+   "pending": false,
+   "org": "Prince of Songkla University",
+   "orgShort": "PSU",
+   "orgFull": "Prince of Songkla University",
+   "faculty": "",
+   "dept": "",
+   "position": "",
+   "email": "",
+   "orcid": "",
+   "profile": "",
+   "expertise": [],
+   "themes": [],
+   "country": "Thailand",
+   "scopus": {
+    "id": "57195931456",
+    "docs": 8,
+    "cites": 14,
+    "h": 2,
+    "probable": true,
+    "aff": "Universitas Tanjungpura"
+   }
+  },
+  {
+   "id": 78,
+   "title": "",
+   "name": "Min Khant San",
+   "nameTh": "",
+   "pending": false,
+   "org": "Prince of Songkla University",
+   "orgShort": "PSU",
+   "orgFull": "Prince of Songkla University",
+   "faculty": "Technology and Environment",
+   "dept": "",
+   "position": "",
+   "email": "",
+   "orcid": "",
+   "profile": "",
+   "expertise": [],
+   "themes": [],
+   "country": "Thailand"
+  },
+  {
+   "id": 79,
+   "title": "Dr.",
+   "name": "Hari Prashad Joshi",
+   "nameTh": "",
+   "pending": false,
+   "org": "Prince of Songkla University",
+   "orgShort": "PSU",
+   "orgFull": "Prince of Songkla University",
+   "faculty": "",
+   "dept": "",
+   "position": "Lecturer",
+   "email": "6310930015@psu.ac.th",
+   "orcid": "https://orcid.org/0000-0002-5206-9021",
+   "profile": "",
+   "expertise": [],
+   "themes": [],
+   "country": "Thailand",
+   "scopus": {
+    "id": "58519760900",
+    "docs": 6,
+    "cites": 21,
+    "h": 2,
+    "probable": false,
+    "aff": "Prince of Songkla University"
+   },
+   "pub": [
+    {
+     "t": "Energy & Environmental Policy",
+     "n": 6
+    },
+    {
+     "t": "Hydropower",
+     "n": 5
+    },
+    {
+     "t": "Community Forestry",
+     "n": 3
+    },
+    {
+     "t": "Land Cover Change",
+     "n": 3
+    }
+   ]
+  },
+  {
+   "id": 80,
+   "title": "",
+   "name": "Rita Adhikari",
+   "nameTh": "",
+   "pending": false,
+   "org": "Prince of Songkla University",
+   "orgShort": "PSU",
+   "orgFull": "Prince of Songkla University",
+   "faculty": "",
+   "dept": "",
+   "position": "",
+   "email": "",
+   "orcid": "",
+   "profile": "",
+   "expertise": [],
+   "themes": [],
+   "country": "Thailand",
+   "scopus": {
+    "id": "58256289700",
+    "docs": 2,
+    "cites": 2,
+    "h": 1,
+    "probable": true,
+    "aff": "Noble Shivapuri Research Institute, Nepal"
+   }
+  },
+  {
+   "id": 81,
+   "title": "Mr.",
+   "name": "Gopi Krishna Dhungana",
+   "nameTh": "",
+   "pending": false,
+   "org": "Prince of Songkla University",
+   "orgShort": "PSU",
+   "orgFull": "Prince of Songkla University",
+   "faculty": "Technology and Environment",
+   "dept": "",
+   "position": "Ph.D. Candidate",
+   "email": "",
+   "orcid": "",
+   "profile": "",
+   "expertise": [],
+   "themes": [],
+   "country": "Thailand",
+   "scopus": {
+    "id": "58311346100",
+    "docs": 1,
+    "cites": 20,
+    "h": 1,
+    "probable": true,
+    "aff": "Tribhuvan University"
+   }
+  },
+  {
+   "id": 82,
+   "title": "Ms.",
+   "name": "Jarupan Channarong",
+   "nameTh": "",
+   "pending": false,
+   "org": "Phatcharapon Farm",
+   "orgShort": "Phatcharapon Farm",
+   "orgFull": "Phatcharapon Farm",
+   "faculty": "",
+   "dept": "",
+   "position": "Researcher",
+   "email": "",
+   "orcid": "",
+   "profile": "",
+   "expertise": [],
+   "themes": [],
+   "country": "Thailand"
+  },
+  {
+   "id": 83,
+   "title": "Mr.",
+   "name": "Sirakan Supundit",
+   "nameTh": "",
+   "pending": false,
+   "org": "Kasetsart University",
+   "orgShort": "KU",
+   "orgFull": "Kasetsart University",
+   "faculty": "Fisheries",
+   "dept": "",
+   "position": "Other",
+   "email": "sirakan.su@ku.th",
+   "orcid": "",
+   "profile": "",
+   "expertise": [],
+   "themes": [],
+   "country": "Thailand"
+  },
+  {
+   "id": 84,
+   "title": "Ms.",
+   "name": "Arfiatul Isnaini",
+   "nameTh": "",
+   "pending": false,
+   "org": "Prince of Songkla University",
+   "orgShort": "PSU",
+   "orgFull": "Prince of Songkla University",
+   "faculty": "Environmental Management",
+   "dept": "",
+   "position": "Other",
+   "email": "",
+   "orcid": "",
+   "profile": "",
+   "expertise": [],
+   "themes": [],
+   "country": "Thailand",
+   "scopus": {
+    "id": "57219401090",
+    "docs": 1,
+    "cites": 5,
+    "h": 1,
+    "probable": true,
+    "aff": "Universitas Negeri Malang"
+   }
+  },
+  {
+   "id": 85,
+   "title": "",
+   "name": "Wannisa Jankrajang",
+   "nameTh": "",
+   "pending": false,
+   "org": "Prince of Songkla University",
+   "orgShort": "PSU",
+   "orgFull": "Prince of Songkla University",
+   "faculty": "",
+   "dept": "",
+   "position": "",
+   "email": "",
+   "orcid": "",
+   "profile": "",
+   "expertise": [],
+   "themes": [],
+   "country": "Thailand"
+  },
+  {
+   "id": 86,
+   "title": "",
+   "name": "Petcharawut Ramsiri",
+   "nameTh": "",
+   "pending": false,
+   "org": "Prince of Songkla University",
+   "orgShort": "PSU",
+   "orgFull": "Prince of Songkla University",
+   "faculty": "Technology and Environment",
+   "dept": "",
+   "position": "Other",
+   "email": "",
+   "orcid": "",
+   "profile": "",
+   "expertise": [],
+   "themes": [],
+   "country": "Thailand",
+   "scopus": {
+    "id": "59461532700",
+    "docs": 2,
+    "cites": 3,
+    "h": 1,
+    "probable": false,
+    "aff": "Prince of Songkla University"
+   }
+  },
+  {
+   "id": 87,
+   "title": "",
+   "name": "Nopphawit Phinchan",
+   "nameTh": "",
+   "pending": false,
+   "org": "Kyushu University",
+   "orgShort": "Kyushu University",
+   "orgFull": "Kyushu University",
+   "faculty": "",
+   "dept": "",
+   "position": "Researcher",
+   "email": "",
+   "orcid": "",
+   "profile": "",
+   "expertise": [],
+   "themes": [],
+   "country": "Japan",
+   "scopus": {
+    "id": "58889574200",
+    "docs": 6,
+    "cites": 89,
+    "h": 3,
+    "probable": false,
+    "aff": "Kyushu University"
+   }
+  },
+  {
+   "id": 88,
+   "title": "Asst. Prof.",
+   "name": "Suriyan Tunkijjanukij",
+   "nameTh": "",
+   "pending": false,
+   "org": "Kasetsart University",
+   "orgShort": "KU",
+   "orgFull": "Kasetsart University",
+   "faculty": "Fisheries",
+   "dept": "",
+   "position": "Lecturer",
+   "email": "",
+   "orcid": "",
+   "profile": "",
+   "expertise": [],
+   "themes": [],
+   "country": "Thailand",
+   "scopus": {
+    "id": "16231803600",
+    "docs": 26,
+    "cites": 609,
+    "h": 13,
+    "probable": false,
+    "aff": "Kasetsart University"
+   }
+  },
+  {
+   "id": 89,
+   "title": "Prof.",
+   "name": "Dokrak Marod",
+   "nameTh": "",
+   "pending": false,
+   "org": "Kasetsart University",
+   "orgShort": "KU",
+   "orgFull": "Kasetsart University",
+   "faculty": "Forestry",
+   "dept": "",
+   "position": "Lecturer",
+   "email": "",
+   "orcid": "https://orcid.org/0000-0003-2847-4382",
+   "profile": "",
+   "expertise": [],
+   "themes": [],
+   "country": "Thailand",
+   "scopus": {
+    "id": "6506564600",
+    "docs": 71,
+    "cites": 856,
+    "h": 15,
+    "probable": false,
+    "aff": "Kasetsart University"
+   },
+   "pub": [
+    {
+     "t": "Tropical Forest Ecology",
+     "n": 17
+    },
+    {
+     "t": "Forest Restoration",
+     "n": 6
+    },
+    {
+     "t": "Species Distribution Modelling",
+     "n": 3
+    },
+    {
+     "t": "Fire Ecology",
+     "n": 3
+    }
+   ]
+  }
+ ],
+ "themes": [
+  "Ocean & Climate",
+  "Remote Sensing & Data",
+  "Coastal Ecosystems & Blue Carbon",
+  "Pollution & Environmental Chemistry",
+  "Aquaculture, Genetics & Biotech",
+  "Forests, Land & Society"
+ ],
+ "tagTheme": {
+  "Sensing Systems": "Remote Sensing & Data",
+  "Multimedia Analysis": "Remote Sensing & Data",
+  "Deep Learning": "Remote Sensing & Data",
+  "Rivers": "Ocean & Climate",
+  "Earth Science": "Ocean & Climate",
+  "Physical Geography": "Ocean & Climate",
+  "Urban Development": "Remote Sensing & Data",
+  "Remote Sensing": "Remote Sensing & Data",
+  "Climate Change": "Ocean & Climate",
+  "Soil": "Ocean & Climate",
+  "Heavy Metal Pollution": "Pollution & Environmental Chemistry",
+  "Precipitation": "Ocean & Climate",
+  "Oceanography": "Ocean & Climate",
+  "Nutrient Cycling": "Ocean & Climate",
+  "Numerical Modeling": "Ocean & Climate",
+  "Physical Oceanography": "Ocean & Climate",
+  "Ocean Modeling": "Ocean & Climate",
+  "Data Assimilation": "Ocean & Climate",
+  "Estuaries": "Ocean & Climate",
+  "Genomics": "Aquaculture, Genetics & Biotech",
+  "Quantitative Genetics": "Aquaculture, Genetics & Biotech",
+  "Genetic Improvement": "Aquaculture, Genetics & Biotech",
+  "Selective Breeding": "Aquaculture, Genetics & Biotech",
+  "DNA Markers": "Aquaculture, Genetics & Biotech",
+  "Ecology": "Coastal Ecosystems & Blue Carbon",
+  "Genetics": "Aquaculture, Genetics & Biotech",
+  "Biochemistry": "Pollution & Environmental Chemistry",
+  "Environmental Chemistry": "Pollution & Environmental Chemistry",
+  "Microplastics": "Pollution & Environmental Chemistry",
+  "Marine Pollution": "Pollution & Environmental Chemistry",
+  "Coral Reefs": "Coastal Ecosystems & Blue Carbon",
+  "Stem Cell Biology": "Aquaculture, Genetics & Biotech",
+  "Cell Culture": "Aquaculture, Genetics & Biotech",
+  "PCR": "Aquaculture, Genetics & Biotech",
+  "Flow Cytometry": "Aquaculture, Genetics & Biotech",
+  "Gene Expression": "Aquaculture, Genetics & Biotech",
+  "Cryobiology": "Aquaculture, Genetics & Biotech",
+  "Cryopreservation": "Aquaculture, Genetics & Biotech",
+  "Seagrass Restoration": "Coastal Ecosystems & Blue Carbon",
+  "Aquaculture Genetics": "Aquaculture, Genetics & Biotech",
+  "Blue Carbon": "Coastal Ecosystems & Blue Carbon",
+  "Marine Ecophysiology": "Coastal Ecosystems & Blue Carbon",
+  "Chemical Oceanography": "Ocean & Climate",
+  "Geoinformatics": "Remote Sensing & Data",
+  "Environmental Monitoring": "Pollution & Environmental Chemistry",
+  "Mangroves": "Coastal Ecosystems & Blue Carbon",
+  "Aquaculture": "Aquaculture, Genetics & Biotech",
+  "Marine Biology": "Coastal Ecosystems & Blue Carbon",
+  "Coral Ecophysiology": "Coastal Ecosystems & Blue Carbon",
+  "Marine Biogeochemistry": "Ocean & Climate",
+  "Air–Sea Interactions": "Ocean & Climate",
+  "Micrometeorology": "Ocean & Climate",
+  "AI & Machine Learning": "Remote Sensing & Data",
+  "Data Science": "Remote Sensing & Data",
+  "IoT": "Remote Sensing & Data",
+  "GIS": "Remote Sensing & Data",
+  "Mangrove Restoration": "Coastal Ecosystems & Blue Carbon",
+  "Analytical Chemistry": "Pollution & Environmental Chemistry",
+  "Environmental Science": "Coastal Ecosystems & Blue Carbon",
+  "Marine Ecosystems": "Ocean & Climate",
+  "Evolutionary Genetics": "Aquaculture, Genetics & Biotech",
+  "Climate Adaptation": "Ocean & Climate",
+  "Conservation Genetics": "Aquaculture, Genetics & Biotech",
+  "Aquatic Animal Genetics": "Aquaculture, Genetics & Biotech",
+  "Biology": "Coastal Ecosystems & Blue Carbon",
+  "Coastal Zone Management": "Coastal Ecosystems & Blue Carbon",
+  "Coastal Ecology": "Coastal Ecosystems & Blue Carbon",
+  "Molecular Biology": "Aquaculture, Genetics & Biotech",
+  "Tsunami & Earthquake Geology": "Ocean & Climate",
+  "Paleoclimate": "Ocean & Climate",
+  "Tropical Cyclones": "Ocean & Climate",
+  "Sea Surface Temperature": "Ocean & Climate",
+  "Gulf of Thailand Hydrography": "Ocean & Climate",
+  "Phytoplankton": "Ocean & Climate",
+  "Atmospheric Aerosols": "Ocean & Climate",
+  "Mercury Biogeochemistry": "Ocean & Climate",
+  "Sea-Level Rise Adaptation": "Ocean & Climate",
+  "Robot Navigation": "Remote Sensing & Data",
+  "Recommender Systems": "Remote Sensing & Data",
+  "Hyperspectral Imaging": "Remote Sensing & Data",
+  "Image Fusion": "Remote Sensing & Data",
+  "Image Denoising": "Remote Sensing & Data",
+  "Vegetation Phenology": "Remote Sensing & Data",
+  "Ocean Colour Remote Sensing": "Remote Sensing & Data",
+  "Disaster Management": "Remote Sensing & Data",
+  "Epidemic Modelling": "Remote Sensing & Data",
+  "Seagrass": "Coastal Ecosystems & Blue Carbon",
+  "Coral Reef Restoration": "Coastal Ecosystems & Blue Carbon",
+  "Symbiodinium": "Coastal Ecosystems & Blue Carbon",
+  "Coral Microbiome": "Coastal Ecosystems & Blue Carbon",
+  "Macroalgae": "Coastal Ecosystems & Blue Carbon",
+  "Macrophyte Photosynthesis": "Coastal Ecosystems & Blue Carbon",
+  "Dugong": "Coastal Ecosystems & Blue Carbon",
+  "Sea Cucumbers": "Coastal Ecosystems & Blue Carbon",
+  "Marine Invertebrate Ecology": "Coastal Ecosystems & Blue Carbon",
+  "Crustacean & Fish Ecology": "Coastal Ecosystems & Blue Carbon",
+  "Algal Microbiome": "Coastal Ecosystems & Blue Carbon",
+  "Nanoplastics": "Pollution & Environmental Chemistry",
+  "Marine Debris": "Pollution & Environmental Chemistry",
+  "Bioremediation": "Pollution & Environmental Chemistry",
+  "Disease Resistance": "Aquaculture, Genetics & Biotech",
+  "Aquatic Animal Health": "Aquaculture, Genetics & Biotech",
+  "Sex Determination & Epigenetics": "Aquaculture, Genetics & Biotech",
+  "Environmental DNA": "Aquaculture, Genetics & Biotech",
+  "Seaweed Bioplastics": "Aquaculture, Genetics & Biotech",
+  "Seaweed Bioactive Compounds": "Aquaculture, Genetics & Biotech",
+  "Forest Disturbance Ecology": "Forests, Land & Society",
+  "Forest Management": "Forests, Land & Society",
+  "Fire Ecology": "Forests, Land & Society",
+  "Community Forestry": "Forests, Land & Society",
+  "Plantation Silviculture": "Forests, Land & Society",
+  "Energy & Environmental Policy": "Forests, Land & Society",
+  "Hydropower": "Forests, Land & Society",
+  "Land Cover Change": "Forests, Land & Society",
+  "Tropical Forest Ecology": "Forests, Land & Society",
+  "Forest Restoration": "Forests, Land & Society",
+  "Species Distribution Modelling": "Forests, Land & Society",
+  "Carbon & Water Fluxes": "Forests, Land & Society",
+  "Pollen & Aerobiology": "Forests, Land & Society",
+  "Drought": "Forests, Land & Society"
+ }
+}
