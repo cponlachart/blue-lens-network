@@ -16,9 +16,8 @@
    "orcid": "https://orcid.org/0000-0001-8160-1796",
    "profile": "https://people.csiro.au/L/J/ryan-liu",
    "expertise": [
-    "Sensing Systems",
-    "Multimedia Analysis",
-    "Deep Learning"
+    "Sensors & IoT",
+    "AI & Data Science"
    ],
    "themes": [
     "Remote Sensing & Data"
@@ -34,16 +33,8 @@
    },
    "pub": [
     {
-     "t": "AI & Machine Learning",
+     "t": "AI & Data Science",
      "n": 14
-    },
-    {
-     "t": "Robot Navigation",
-     "n": 5
-    },
-    {
-     "t": "Recommender Systems",
-     "n": 3
     }
    ],
    "absCov": [
@@ -57,7 +48,17 @@
     }
    ],
    "areas": [],
-   "ecos": []
+   "ecos": [],
+   "expDetail": [
+    "Sensing Systems",
+    "Multimedia Analysis",
+    "Deep Learning"
+   ],
+   "pubDetail": [
+    "AI & Machine Learning",
+    "Robot Navigation",
+    "Recommender Systems"
+   ]
   },
   {
    "id": 2,
@@ -75,17 +76,14 @@
    "orcid": "",
    "profile": "",
    "expertise": [
-    "Rivers",
-    "Earth Science",
-    "Physical Geography",
-    "Urban Development",
-    "Remote Sensing",
-    "Climate Change",
-    "Soil",
-    "Heavy Metal Pollution",
-    "Precipitation"
+    "Hydrology & Earth Science",
+    "Land Use & Land Cover Change",
+    "Remote Sensing & GIS",
+    "Climate Change & Adaptation",
+    "Heavy Metals & Mercury"
    ],
    "themes": [
+    "Forests, Land & Society",
     "Ocean & Climate",
     "Pollution & Environmental Chemistry",
     "Remote Sensing & Data"
@@ -98,7 +96,18 @@
     "h": 72,
     "probable": false,
     "aff": "National University of Singapore"
-   }
+   },
+   "expDetail": [
+    "Rivers",
+    "Earth Science",
+    "Physical Geography",
+    "Urban Development",
+    "Remote Sensing",
+    "Climate Change",
+    "Soil",
+    "Heavy Metal Pollution",
+    "Precipitation"
+   ]
   },
   {
    "id": 3,
@@ -116,7 +125,7 @@
    "orcid": "https://orcid.org/0000-0002-3741-1124",
    "profile": "",
    "expertise": [
-    "Remote Sensing"
+    "Remote Sensing & GIS"
    ],
    "themes": [
     "Remote Sensing & Data"
@@ -132,20 +141,12 @@
    },
    "pub": [
     {
-     "t": "Hyperspectral Imaging",
+     "t": "Remote Sensing & GIS",
      "n": 26
     },
     {
-     "t": "Image Fusion",
+     "t": "Image & Signal Processing",
      "n": 23
-    },
-    {
-     "t": "Remote Sensing",
-     "n": 17
-    },
-    {
-     "t": "Image Denoising",
-     "n": 10
     }
    ],
    "absCov": [
@@ -168,6 +169,15 @@
      "t": "Mangroves",
      "n": 3
     }
+   ],
+   "expDetail": [
+    "Remote Sensing"
+   ],
+   "pubDetail": [
+    "Hyperspectral Imaging",
+    "Image Fusion",
+    "Remote Sensing",
+    "Image Denoising"
    ]
   },
   {
@@ -186,7 +196,7 @@
    "orcid": "https://orcid.org/0000-0002-5351-7383",
    "profile": "",
    "expertise": [
-    "Oceanography"
+    "Physical Oceanography"
    ],
    "themes": [
     "Ocean & Climate"
@@ -202,16 +212,12 @@
    },
    "pub": [
     {
-     "t": "Tsunami & Earthquake Geology",
+     "t": "Coastal Hazards",
      "n": 37
     },
     {
      "t": "Paleoclimate",
      "n": 12
-    },
-    {
-     "t": "Tropical Cyclones",
-     "n": 5
     }
    ],
    "absCov": [
@@ -259,6 +265,14 @@
      "t": "Shelf seas & open ocean",
      "n": 4
     }
+   ],
+   "expDetail": [
+    "Oceanography"
+   ],
+   "pubDetail": [
+    "Tsunami & Earthquake Geology",
+    "Paleoclimate",
+    "Tropical Cyclones"
    ]
   },
   {
@@ -277,14 +291,10 @@
    "orcid": "https://orcid.org/0000-0002-4832-8625",
    "profile": "",
    "expertise": [
-    "Nutrient Cycling",
-    "Numerical Modeling",
+    "Marine Biogeochemistry",
+    "Ocean & Environmental Modelling",
     "Physical Oceanography",
-    "Ocean Modeling",
-    "Climate Change",
-    "Oceanography",
-    "Data Assimilation",
-    "Estuaries"
+    "Climate Change & Adaptation"
    ],
    "themes": [
     "Ocean & Climate"
@@ -304,15 +314,11 @@
      "n": 44
     },
     {
-     "t": "Marine Ecosystems",
+     "t": "Phytoplankton & Marine Ecosystems",
      "n": 33
     },
     {
-     "t": "Phytoplankton",
-     "n": 16
-    },
-    {
-     "t": "Nutrient Cycling",
+     "t": "Marine Biogeochemistry",
      "n": 15
     }
    ],
@@ -365,6 +371,22 @@
      "t": "Estuaries",
      "n": 10
     }
+   ],
+   "expDetail": [
+    "Nutrient Cycling",
+    "Numerical Modeling",
+    "Physical Oceanography",
+    "Ocean Modeling",
+    "Climate Change",
+    "Oceanography",
+    "Data Assimilation",
+    "Estuaries"
+   ],
+   "pubDetail": [
+    "Physical Oceanography",
+    "Marine Ecosystems",
+    "Phytoplankton",
+    "Nutrient Cycling"
    ]
   },
   {
@@ -383,11 +405,8 @@
    "orcid": "https://orcid.org/0000-0002-4143-955X",
    "profile": "",
    "expertise": [
-    "Genomics",
-    "Quantitative Genetics",
-    "Genetic Improvement",
-    "Selective Breeding",
-    "DNA Markers"
+    "Genomics & Molecular Biology",
+    "Aquaculture Breeding & Genetics"
    ],
    "themes": [
     "Aquaculture, Genetics & Biotech"
@@ -403,20 +422,12 @@
    },
    "pub": [
     {
-     "t": "Quantitative Genetics",
+     "t": "Aquaculture Breeding & Genetics",
      "n": 20
     },
     {
-     "t": "Selective Breeding",
-     "n": 13
-    },
-    {
-     "t": "Aquaculture",
+     "t": "Aquaculture & Animal Health",
      "n": 15
-    },
-    {
-     "t": "Disease Resistance",
-     "n": 14
     }
    ],
    "absCov": [
@@ -447,6 +458,19 @@
      "t": "Rivers, lakes & wetlands",
      "n": 10
     }
+   ],
+   "expDetail": [
+    "Genomics",
+    "Quantitative Genetics",
+    "Genetic Improvement",
+    "Selective Breeding",
+    "DNA Markers"
+   ],
+   "pubDetail": [
+    "Quantitative Genetics",
+    "Selective Breeding",
+    "Aquaculture",
+    "Disease Resistance"
    ]
   },
   {
@@ -465,12 +489,11 @@
    "orcid": "https://orcid.org/0000-0003-2978-0680",
    "profile": "",
    "expertise": [
-    "Ecology",
-    "Genetics",
-    "Biochemistry",
-    "Environmental Chemistry",
-    "Microplastics",
-    "Marine Pollution"
+    "Marine Biology & Ecology",
+    "Genomics & Molecular Biology",
+    "Environmental & Analytical Chemistry",
+    "Microplastics & Marine Debris",
+    "Pollution Monitoring"
    ],
    "themes": [
     "Aquaculture, Genetics & Biotech",
@@ -488,12 +511,8 @@
    },
    "pub": [
     {
-     "t": "Microplastics",
+     "t": "Microplastics & Marine Debris",
      "n": 119
-    },
-    {
-     "t": "Nanoplastics",
-     "n": 10
     }
    ],
    "absCov": [
@@ -537,6 +556,18 @@
      "t": "Urban areas",
      "n": 4
     }
+   ],
+   "expDetail": [
+    "Ecology",
+    "Genetics",
+    "Biochemistry",
+    "Environmental Chemistry",
+    "Microplastics",
+    "Marine Pollution"
+   ],
+   "pubDetail": [
+    "Microplastics",
+    "Nanoplastics"
    ]
   },
   {
@@ -555,7 +586,7 @@
    "orcid": "https://orcid.org/0000-0003-1417-9657",
    "profile": "",
    "expertise": [
-    "Climate Change",
+    "Climate Change & Adaptation",
     "Coral Reefs"
    ],
    "themes": [
@@ -581,7 +612,7 @@
      "n": 24
     },
     {
-     "t": "Sea Surface Temperature",
+     "t": "Physical Oceanography",
      "n": 10
     }
    ],
@@ -618,6 +649,15 @@
      "t": "Shelf seas & open ocean",
      "n": 3
     }
+   ],
+   "expDetail": [
+    "Climate Change",
+    "Coral Reefs"
+   ],
+   "pubDetail": [
+    "Coral Reefs",
+    "Paleoclimate",
+    "Sea Surface Temperature"
    ]
   },
   {
@@ -636,13 +676,8 @@
    "orcid": "https://orcid.org/0000-0003-3442-3928",
    "profile": "",
    "expertise": [
-    "Stem Cell Biology",
-    "Cell Culture",
-    "PCR",
-    "Flow Cytometry",
-    "Gene Expression",
-    "Cryobiology",
-    "Cryopreservation"
+    "Cryopreservation & Cell Biology",
+    "Genomics & Molecular Biology"
    ],
    "themes": [
     "Aquaculture, Genetics & Biotech"
@@ -662,16 +697,12 @@
      "n": 31
     },
     {
-     "t": "Cryopreservation",
+     "t": "Cryopreservation & Cell Biology",
      "n": 24
     },
     {
-     "t": "Coral Reef Restoration",
+     "t": "Ecosystem Restoration",
      "n": 7
-    },
-    {
-     "t": "Symbiodinium",
-     "n": 8
     }
    ],
    "absCov": [
@@ -707,6 +738,21 @@
      "t": "Aquaculture systems",
      "n": 4
     }
+   ],
+   "expDetail": [
+    "Stem Cell Biology",
+    "Cell Culture",
+    "PCR",
+    "Flow Cytometry",
+    "Gene Expression",
+    "Cryobiology",
+    "Cryopreservation"
+   ],
+   "pubDetail": [
+    "Coral Reefs",
+    "Cryopreservation",
+    "Coral Reef Restoration",
+    "Symbiodinium"
    ]
   },
   {
@@ -725,7 +771,7 @@
    "orcid": "https://orcid.org/0000-0003-2809-2376",
    "profile": "",
    "expertise": [
-    "Remote Sensing"
+    "Remote Sensing & GIS"
    ],
    "themes": [
     "Remote Sensing & Data"
@@ -741,23 +787,19 @@
    },
    "pub": [
     {
-     "t": "Remote Sensing",
+     "t": "Remote Sensing & GIS",
      "n": 60
     },
     {
-     "t": "Vegetation Phenology",
+     "t": "Ecosystem Carbon & Water Fluxes",
      "n": 17
     },
     {
-     "t": "Carbon & Water Fluxes",
-     "n": 17
-    },
-    {
-     "t": "Pollen & Aerobiology",
+     "t": "Aerobiology & Pollen",
      "n": 9
     },
     {
-     "t": "Drought",
+     "t": "Hydrology & Earth Science",
      "n": 7
     }
    ],
@@ -818,6 +860,16 @@
      "t": "Mangroves",
      "n": 9
     }
+   ],
+   "expDetail": [
+    "Remote Sensing"
+   ],
+   "pubDetail": [
+    "Remote Sensing",
+    "Vegetation Phenology",
+    "Carbon & Water Fluxes",
+    "Pollen & Aerobiology",
+    "Drought"
    ]
   },
   {
@@ -836,7 +888,8 @@
    "orcid": "https://orcid.org/0000-0002-9724-9237",
    "profile": "https://www.gu.se/en/about/find-staff/eduardoinfantes",
    "expertise": [
-    "Seagrass Restoration"
+    "Seagrass",
+    "Ecosystem Restoration"
    ],
    "themes": [
     "Coastal Ecosystems & Blue Carbon"
@@ -856,7 +909,7 @@
      "n": 33
     },
     {
-     "t": "Seagrass Restoration",
+     "t": "Ecosystem Restoration",
      "n": 9
     },
     {
@@ -864,7 +917,7 @@
      "n": 8
     },
     {
-     "t": "Microplastics",
+     "t": "Microplastics & Marine Debris",
      "n": 3
     }
    ],
@@ -921,6 +974,15 @@
      "t": "Beaches & sandy shores",
      "n": 3
     }
+   ],
+   "expDetail": [
+    "Seagrass Restoration"
+   ],
+   "pubDetail": [
+    "Seagrass",
+    "Seagrass Restoration",
+    "Coastal Ecology",
+    "Microplastics"
    ]
   },
   {
@@ -939,7 +1001,7 @@
    "orcid": "https://orcid.org/0000-0001-8091-6075",
    "profile": "",
    "expertise": [
-    "Oceanography"
+    "Physical Oceanography"
    ],
    "themes": [
     "Ocean & Climate"
@@ -955,19 +1017,11 @@
    },
    "pub": [
     {
-     "t": "Forest Disturbance Ecology",
+     "t": "Forest Ecology & Management",
      "n": 20
     },
     {
-     "t": "Forest Management",
-     "n": 20
-    },
-    {
-     "t": "Fire Ecology",
-     "n": 10
-    },
-    {
-     "t": "Climate Change",
+     "t": "Climate Change & Adaptation",
      "n": 10
     }
    ],
@@ -1016,6 +1070,15 @@
      "t": "Tropical forests",
      "n": 14
     }
+   ],
+   "expDetail": [
+    "Oceanography"
+   ],
+   "pubDetail": [
+    "Forest Disturbance Ecology",
+    "Forest Management",
+    "Fire Ecology",
+    "Climate Change"
    ]
   },
   {
@@ -1034,7 +1097,7 @@
    "orcid": "https://orcid.org/0000-0003-3735-1798",
    "profile": "",
    "expertise": [
-    "Aquaculture Genetics"
+    "Aquaculture Breeding & Genetics"
    ],
    "themes": [
     "Aquaculture, Genetics & Biotech"
@@ -1050,15 +1113,11 @@
    },
    "pub": [
     {
-     "t": "Aquaculture",
+     "t": "Aquaculture & Animal Health",
      "n": 22
     },
     {
-     "t": "Selective Breeding",
-     "n": 14
-    },
-    {
-     "t": "Aquatic Animal Health",
+     "t": "Aquaculture Breeding & Genetics",
      "n": 14
     },
     {
@@ -1066,7 +1125,7 @@
      "n": 12
     },
     {
-     "t": "Sex Determination & Epigenetics",
+     "t": "Genomics & Molecular Biology",
      "n": 9
     }
    ],
@@ -1131,6 +1190,16 @@
      "t": "Estuaries",
      "n": 4
     }
+   ],
+   "expDetail": [
+    "Aquaculture Genetics"
+   ],
+   "pubDetail": [
+    "Aquaculture",
+    "Selective Breeding",
+    "Aquatic Animal Health",
+    "Environmental DNA",
+    "Sex Determination & Epigenetics"
    ]
   },
   {
@@ -1174,15 +1243,15 @@
      "n": 6
     },
     {
-     "t": "Coral Ecophysiology",
+     "t": "Coral Reefs",
      "n": 5
     },
     {
-     "t": "Community Forestry",
+     "t": "Community Forestry & Governance",
      "n": 4
     },
     {
-     "t": "Heavy Metal Pollution",
+     "t": "Heavy Metals & Mercury",
      "n": 3
     }
    ],
@@ -1247,6 +1316,17 @@
      "t": "Coastal lagoons",
      "n": 6
     }
+   ],
+   "expDetail": [
+    "Blue Carbon",
+    "Marine Ecophysiology"
+   ],
+   "pubDetail": [
+    "Marine Ecophysiology",
+    "Mangroves",
+    "Coral Ecophysiology",
+    "Community Forestry",
+    "Heavy Metal Pollution"
    ]
   },
   {
@@ -1265,7 +1345,7 @@
    "orcid": "https://orcid.org/0000-0002-5108-2910",
    "profile": "https://cocc.psu.ac.th/assoc-prof-dr-siriporn-pradit/",
    "expertise": [
-    "Chemical Oceanography"
+    "Marine Biogeochemistry"
    ],
    "themes": [
     "Ocean & Climate"
@@ -1281,7 +1361,7 @@
    },
    "pub": [
     {
-     "t": "Microplastics",
+     "t": "Microplastics & Marine Debris",
      "n": 26
     },
     {
@@ -1289,11 +1369,11 @@
      "n": 8
     },
     {
-     "t": "Crustacean & Fish Ecology",
+     "t": "Marine Biology & Ecology",
      "n": 8
     },
     {
-     "t": "Heavy Metal Pollution",
+     "t": "Heavy Metals & Mercury",
      "n": 7
     }
    ],
@@ -1354,6 +1434,15 @@
      "t": "Beaches & sandy shores",
      "n": 7
     }
+   ],
+   "expDetail": [
+    "Chemical Oceanography"
+   ],
+   "pubDetail": [
+    "Microplastics",
+    "Mangroves",
+    "Crustacean & Fish Ecology",
+    "Heavy Metal Pollution"
    ]
   },
   {
@@ -1372,9 +1461,8 @@
    "orcid": "https://orcid.org/0000-0002-4411-9148",
    "profile": "",
    "expertise": [
-    "Remote Sensing",
-    "Geoinformatics",
-    "Environmental Monitoring"
+    "Remote Sensing & GIS",
+    "Pollution Monitoring"
    ],
    "themes": [
     "Pollution & Environmental Chemistry",
@@ -1391,15 +1479,11 @@
    },
    "pub": [
     {
-     "t": "Remote Sensing",
+     "t": "Remote Sensing & GIS",
      "n": 9
     },
     {
-     "t": "Vegetation Phenology",
-     "n": 5
-    },
-    {
-     "t": "Disaster Management",
+     "t": "Coastal Hazards",
      "n": 5
     },
     {
@@ -1456,6 +1540,17 @@
      "t": "Beaches & sandy shores",
      "n": 2
     }
+   ],
+   "expDetail": [
+    "Remote Sensing",
+    "Geoinformatics",
+    "Environmental Monitoring"
+   ],
+   "pubDetail": [
+    "Remote Sensing",
+    "Vegetation Phenology",
+    "Disaster Management",
+    "Mangroves"
    ]
   },
   {
@@ -1495,11 +1590,11 @@
      "n": 7
     },
     {
-     "t": "Mangrove Restoration",
+     "t": "Ecosystem Restoration",
      "n": 4
     },
     {
-     "t": "Sea-Level Rise Adaptation",
+     "t": "Sea-Level Rise",
      "n": 4
     }
    ],
@@ -1527,6 +1622,15 @@
      "t": "Tidal flats & salt marshes",
      "n": 3
     }
+   ],
+   "expDetail": [
+    "Mangroves",
+    "Blue Carbon"
+   ],
+   "pubDetail": [
+    "Mangroves",
+    "Mangrove Restoration",
+    "Sea-Level Rise Adaptation"
    ]
   },
   {
@@ -1565,11 +1669,7 @@
      "n": 5
     },
     {
-     "t": "Gulf of Thailand Hydrography",
-     "n": 4
-    },
-    {
-     "t": "Marine Debris",
+     "t": "Microplastics & Marine Debris",
      "n": 2
     }
    ],
@@ -1614,6 +1714,14 @@
      "t": "Mangroves",
      "n": 2
     }
+   ],
+   "expDetail": [
+    "Physical Oceanography"
+   ],
+   "pubDetail": [
+    "Physical Oceanography",
+    "Gulf of Thailand Hydrography",
+    "Marine Debris"
    ]
   },
   {
@@ -1632,7 +1740,7 @@
    "orcid": "https://orcid.org/0000-0002-9288-4039",
    "profile": "https://kuias.ku.ac.th/professor/detail/64/%E0%B8%AA%E0%B8%B8%E0%B8%A0%E0%B8%B2%E0%B8%A7%E0%B8%94%E0%B8%B5-%E0%B8%9E%E0%B8%B8%E0%B9%88%E0%B8%A1%E0%B8%9E%E0%B8%A7%E0%B8%87?lang=en",
    "expertise": [
-    "Aquaculture"
+    "Aquaculture & Animal Health"
    ],
    "themes": [
     "Aquaculture, Genetics & Biotech"
@@ -1648,15 +1756,11 @@
    },
    "pub": [
     {
-     "t": "Selective Breeding",
+     "t": "Aquaculture Breeding & Genetics",
      "n": 6
     },
     {
-     "t": "Quantitative Genetics",
-     "n": 6
-    },
-    {
-     "t": "Aquaculture",
+     "t": "Aquaculture & Animal Health",
      "n": 5
     }
    ],
@@ -1685,6 +1789,14 @@
      "t": "Aquaculture systems",
      "n": 6
     }
+   ],
+   "expDetail": [
+    "Aquaculture"
+   ],
+   "pubDetail": [
+    "Selective Breeding",
+    "Quantitative Genetics",
+    "Aquaculture"
    ]
   },
   {
@@ -1703,7 +1815,7 @@
    "orcid": "https://orcid.org/0000-0001-6266-7300",
    "profile": "https://www.marine.sc.chula.ac.th/suchana-c/",
    "expertise": [
-    "Marine Biology",
+    "Marine Biology & Ecology",
     "Coral Reefs"
    ],
    "themes": [
@@ -1720,7 +1832,7 @@
    },
    "pub": [
     {
-     "t": "Microplastics",
+     "t": "Microplastics & Marine Debris",
      "n": 27
     },
     {
@@ -1728,11 +1840,11 @@
      "n": 15
     },
     {
-     "t": "Marine Invertebrate Ecology",
+     "t": "Marine Biology & Ecology",
      "n": 5
     },
     {
-     "t": "Bioremediation",
+     "t": "Microbial Ecology",
      "n": 4
     }
    ],
@@ -1793,6 +1905,16 @@
      "t": "Estuaries",
      "n": 6
     }
+   ],
+   "expDetail": [
+    "Marine Biology",
+    "Coral Reefs"
+   ],
+   "pubDetail": [
+    "Microplastics",
+    "Coral Reefs",
+    "Marine Invertebrate Ecology",
+    "Bioremediation"
    ]
   },
   {
@@ -1811,8 +1933,9 @@
    "orcid": "https://orcid.org/0000-0002-2089-6356",
    "profile": "https://www.marine.sc.chula.ac.th/vvp-promotion-64/",
    "expertise": [
-    "Oceanography",
-    "Coral Ecophysiology"
+    "Physical Oceanography",
+    "Coral Reefs",
+    "Marine Ecophysiology"
    ],
    "themes": [
     "Coastal Ecosystems & Blue Carbon",
@@ -1829,7 +1952,7 @@
    },
    "pub": [
     {
-     "t": "Microplastics",
+     "t": "Microplastics & Marine Debris",
      "n": 18
     },
     {
@@ -1837,7 +1960,7 @@
      "n": 12
     },
     {
-     "t": "Coral Microbiome",
+     "t": "Microbial Ecology",
      "n": 3
     }
    ],
@@ -1890,6 +2013,15 @@
      "t": "Mangroves",
      "n": 4
     }
+   ],
+   "expDetail": [
+    "Oceanography",
+    "Coral Ecophysiology"
+   ],
+   "pubDetail": [
+    "Microplastics",
+    "Coral Reefs",
+    "Coral Microbiome"
    ]
   },
   {
@@ -1909,8 +2041,8 @@
    "profile": "https://www.marine.sc.chula.ac.th/sujaree-b/",
    "expertise": [
     "Marine Biogeochemistry",
-    "Marine Pollution",
-    "Air–Sea Interactions"
+    "Pollution Monitoring",
+    "Atmosphere & Air–Sea Interactions"
    ],
    "themes": [
     "Ocean & Climate",
@@ -1927,15 +2059,15 @@
    },
    "pub": [
     {
-     "t": "Mercury Biogeochemistry",
+     "t": "Heavy Metals & Mercury",
      "n": 8
     },
     {
-     "t": "Microplastics",
+     "t": "Microplastics & Marine Debris",
      "n": 4
     },
     {
-     "t": "Atmospheric Aerosols",
+     "t": "Atmosphere & Air–Sea Interactions",
      "n": 2
     },
     {
@@ -2000,6 +2132,17 @@
      "t": "Mangroves",
      "n": 2
     }
+   ],
+   "expDetail": [
+    "Marine Biogeochemistry",
+    "Marine Pollution",
+    "Air–Sea Interactions"
+   ],
+   "pubDetail": [
+    "Mercury Biogeochemistry",
+    "Microplastics",
+    "Atmospheric Aerosols",
+    "Blue Carbon"
    ]
   },
   {
@@ -2038,15 +2181,15 @@
      "n": 13
     },
     {
-     "t": "Seagrass Restoration",
+     "t": "Ecosystem Restoration",
      "n": 10
     },
     {
-     "t": "Dugong",
+     "t": "Marine Megafauna",
      "n": 8
     },
     {
-     "t": "Sea Cucumbers",
+     "t": "Marine Biology & Ecology",
      "n": 3
     }
    ],
@@ -2103,6 +2246,14 @@
      "t": "Mangroves",
      "n": 5
     }
+   ],
+   "expDetail": [],
+   "pubDetail": [
+    "Seagrass",
+    "Blue Carbon",
+    "Seagrass Restoration",
+    "Dugong",
+    "Sea Cucumbers"
    ]
   },
   {
@@ -2121,13 +2272,11 @@
    "orcid": "https://orcid.org/0000-0002-9946-9188",
    "profile": "https://cocc.psu.ac.th/ponlachart-chotikarn/",
    "expertise": [
-    "Micrometeorology",
-    "Numerical Modeling",
-    "AI & Machine Learning",
-    "Data Science",
-    "IoT",
-    "GIS",
-    "Remote Sensing"
+    "Atmosphere & Air–Sea Interactions",
+    "Ocean & Environmental Modelling",
+    "AI & Data Science",
+    "Sensors & IoT",
+    "Remote Sensing & GIS"
    ],
    "themes": [
     "Ocean & Climate",
@@ -2148,19 +2297,19 @@
      "n": 7
     },
     {
-     "t": "Coral Ecophysiology",
+     "t": "Coral Reefs",
      "n": 5
     },
     {
-     "t": "Macrophyte Photosynthesis",
+     "t": "Marine Ecophysiology",
+     "n": 5
+    },
+    {
+     "t": "Microplastics & Marine Debris",
      "n": 4
     },
     {
-     "t": "Microplastics",
-     "n": 4
-    },
-    {
-     "t": "AI & Machine Learning",
+     "t": "AI & Data Science",
      "n": 4
     }
    ],
@@ -2217,6 +2366,22 @@
      "t": "Agricultural land",
      "n": 6
     }
+   ],
+   "expDetail": [
+    "Micrometeorology",
+    "Numerical Modeling",
+    "AI & Machine Learning",
+    "Data Science",
+    "IoT",
+    "GIS",
+    "Remote Sensing"
+   ],
+   "pubDetail": [
+    "Mangroves",
+    "Coral Ecophysiology",
+    "Macrophyte Photosynthesis",
+    "Microplastics",
+    "AI & Machine Learning"
    ]
   },
   {
@@ -2235,7 +2400,8 @@
    "orcid": "https://orcid.org/0000-0002-5262-2608",
    "profile": "https://research.ku.ac.th/forest/Person.aspx?id=670020",
    "expertise": [
-    "Mangrove Restoration"
+    "Mangroves",
+    "Ecosystem Restoration"
    ],
    "themes": [
     "Coastal Ecosystems & Blue Carbon"
@@ -2251,20 +2417,24 @@
    },
    "pub": [
     {
-     "t": "Mangrove Restoration",
+     "t": "Mangroves",
      "n": 9
     },
     {
-     "t": "Community Forestry",
+     "t": "Ecosystem Restoration",
+     "n": 9
+    },
+    {
+     "t": "Community Forestry & Governance",
      "n": 4
     },
     {
-     "t": "Sea-Level Rise Adaptation",
-     "n": 2
+     "t": "Forest Ecology & Management",
+     "n": 3
     },
     {
-     "t": "Plantation Silviculture",
-     "n": 3
+     "t": "Sea-Level Rise",
+     "n": 2
     }
    ],
    "absCov": [
@@ -2292,6 +2462,15 @@
      "t": "Tidal flats & salt marshes",
      "n": 3
     }
+   ],
+   "expDetail": [
+    "Mangrove Restoration"
+   ],
+   "pubDetail": [
+    "Mangrove Restoration",
+    "Community Forestry",
+    "Sea-Level Rise Adaptation",
+    "Plantation Silviculture"
    ]
   },
   {
@@ -2310,8 +2489,7 @@
    "orcid": "https://orcid.org/0009-0007-6496-0122",
    "profile": "",
    "expertise": [
-    "Selective Breeding",
-    "Quantitative Genetics"
+    "Aquaculture Breeding & Genetics"
    ],
    "themes": [
     "Aquaculture, Genetics & Biotech"
@@ -2327,15 +2505,11 @@
    },
    "pub": [
     {
-     "t": "Selective Breeding",
+     "t": "Aquaculture Breeding & Genetics",
      "n": 7
     },
     {
-     "t": "Aquaculture",
-     "n": 4
-    },
-    {
-     "t": "Quantitative Genetics",
+     "t": "Aquaculture & Animal Health",
      "n": 4
     }
    ],
@@ -2359,6 +2533,15 @@
      "t": "Aquaculture systems",
      "n": 3
     }
+   ],
+   "expDetail": [
+    "Selective Breeding",
+    "Quantitative Genetics"
+   ],
+   "pubDetail": [
+    "Selective Breeding",
+    "Aquaculture",
+    "Quantitative Genetics"
    ]
   },
   {
@@ -2377,9 +2560,7 @@
    "orcid": "https://orcid.org/0000-0001-9103-2945",
    "profile": "",
    "expertise": [
-    "Quantitative Genetics",
-    "Selective Breeding",
-    "Aquaculture Genetics"
+    "Aquaculture Breeding & Genetics"
    ],
    "themes": [
     "Aquaculture, Genetics & Biotech"
@@ -2395,7 +2576,7 @@
    },
    "pub": [
     {
-     "t": "Aquaculture Genetics",
+     "t": "Aquaculture Breeding & Genetics",
      "n": 4
     }
    ],
@@ -2419,6 +2600,14 @@
      "t": "Aquaculture systems",
      "n": 3
     }
+   ],
+   "expDetail": [
+    "Quantitative Genetics",
+    "Selective Breeding",
+    "Aquaculture Genetics"
+   ],
+   "pubDetail": [
+    "Aquaculture Genetics"
    ]
   },
   {
@@ -2437,8 +2626,8 @@
    "orcid": "https://orcid.org/0000-0002-7783-6346",
    "profile": "",
    "expertise": [
-    "Analytical Chemistry",
-    "Environmental Monitoring"
+    "Environmental & Analytical Chemistry",
+    "Pollution Monitoring"
    ],
    "themes": [
     "Pollution & Environmental Chemistry"
@@ -2451,7 +2640,11 @@
     "h": 2,
     "probable": false,
     "aff": "Prince of Songkla University"
-   }
+   },
+   "expDetail": [
+    "Analytical Chemistry",
+    "Environmental Monitoring"
+   ]
   },
   {
    "id": 29,
@@ -2469,11 +2662,12 @@
    "orcid": "https://orcid.org/0000-0003-2543-924X",
    "profile": "https://www.reading.ac.uk/ges/staff/professor-shovonlal-roy",
    "expertise": [
-    "Environmental Science",
-    "Marine Ecosystems"
+    "Coastal Ecology",
+    "Phytoplankton & Marine Ecosystems"
    ],
    "themes": [
-    "Coastal Ecosystems & Blue Carbon"
+    "Coastal Ecosystems & Blue Carbon",
+    "Ocean & Climate"
    ],
    "country": "United Kingdom",
    "scopus": {
@@ -2486,15 +2680,11 @@
    },
    "pub": [
     {
-     "t": "Phytoplankton",
-     "n": 10
-    },
-    {
-     "t": "Marine Ecosystems",
+     "t": "Phytoplankton & Marine Ecosystems",
      "n": 12
     },
     {
-     "t": "Ocean Colour Remote Sensing",
+     "t": "Remote Sensing & GIS",
      "n": 6
     },
     {
@@ -2525,7 +2715,17 @@
     }
    ],
    "areas": [],
-   "ecos": []
+   "ecos": [],
+   "expDetail": [
+    "Environmental Science",
+    "Marine Ecosystems"
+   ],
+   "pubDetail": [
+    "Phytoplankton",
+    "Marine Ecosystems",
+    "Ocean Colour Remote Sensing",
+    "Epidemic Modelling"
+   ]
   },
   {
    "id": 30,
@@ -2543,10 +2743,8 @@
    "orcid": "",
    "profile": "",
    "expertise": [
-    "Evolutionary Genetics",
-    "Climate Adaptation",
-    "Conservation Genetics",
-    "Aquatic Animal Genetics"
+    "Genomics & Molecular Biology",
+    "Climate Change & Adaptation"
    ],
    "themes": [
     "Aquaculture, Genetics & Biotech",
@@ -2560,7 +2758,13 @@
     "h": 3,
     "probable": true,
     "aff": "The University of Vermont"
-   }
+   },
+   "expDetail": [
+    "Evolutionary Genetics",
+    "Climate Adaptation",
+    "Conservation Genetics",
+    "Aquatic Animal Genetics"
+   ]
   },
   {
    "id": 31,
@@ -2590,11 +2794,11 @@
    },
    "pub": [
     {
-     "t": "AI & Machine Learning",
+     "t": "AI & Data Science",
      "n": 1
     },
     {
-     "t": "Microplastics",
+     "t": "Microplastics & Marine Debris",
      "n": 1
     }
    ],
@@ -2619,6 +2823,11 @@
      "t": "Seagrass meadows",
      "n": 1
     }
+   ],
+   "expDetail": [],
+   "pubDetail": [
+    "AI & Machine Learning",
+    "Microplastics"
    ]
   },
   {
@@ -2638,7 +2847,8 @@
    "profile": "",
    "expertise": [],
    "themes": [],
-   "country": "Thailand"
+   "country": "Thailand",
+   "expDetail": []
   },
   {
    "id": 33,
@@ -2657,7 +2867,8 @@
    "profile": "",
    "expertise": [],
    "themes": [],
-   "country": "Thailand"
+   "country": "Thailand",
+   "expDetail": []
   },
   {
    "id": 34,
@@ -2676,7 +2887,8 @@
    "profile": "",
    "expertise": [],
    "themes": [],
-   "country": "Thailand"
+   "country": "Thailand",
+   "expDetail": []
   },
   {
    "id": 35,
@@ -2695,7 +2907,8 @@
    "profile": "",
    "expertise": [],
    "themes": [],
-   "country": "Thailand"
+   "country": "Thailand",
+   "expDetail": []
   },
   {
    "id": 36,
@@ -2714,7 +2927,8 @@
    "profile": "",
    "expertise": [],
    "themes": [],
-   "country": "Thailand"
+   "country": "Thailand",
+   "expDetail": []
   },
   {
    "id": 37,
@@ -2733,7 +2947,8 @@
    "profile": "",
    "expertise": [],
    "themes": [],
-   "country": "Thailand"
+   "country": "Thailand",
+   "expDetail": []
   },
   {
    "id": 38,
@@ -2752,7 +2967,8 @@
    "profile": "",
    "expertise": [],
    "themes": [],
-   "country": "Thailand"
+   "country": "Thailand",
+   "expDetail": []
   },
   {
    "id": 39,
@@ -2771,7 +2987,8 @@
    "profile": "",
    "expertise": [],
    "themes": [],
-   "country": "Thailand"
+   "country": "Thailand",
+   "expDetail": []
   },
   {
    "id": 40,
@@ -2799,7 +3016,8 @@
     "probable": false,
     "aff": "Kasetsart University",
     "name": "Worrawatanathum, Vasawan"
-   }
+   },
+   "expDetail": []
   },
   {
    "id": 41,
@@ -2826,7 +3044,8 @@
     "h": 7,
     "probable": false,
     "aff": "Geo-Informatics and Space Technology Development Agency"
-   }
+   },
+   "expDetail": []
   },
   {
    "id": 42,
@@ -2853,7 +3072,8 @@
     "h": 1,
     "probable": false,
     "aff": "Kasetsart University, Kamphaeng Saen Campus"
-   }
+   },
+   "expDetail": []
   },
   {
    "id": 43,
@@ -2872,7 +3092,8 @@
    "profile": "",
    "expertise": [],
    "themes": [],
-   "country": "Thailand"
+   "country": "Thailand",
+   "expDetail": []
   },
   {
    "id": 44,
@@ -2900,7 +3121,8 @@
     "probable": false,
     "aff": "Prince of Songkla University",
     "name": "Jitkaew, Panisara"
-   }
+   },
+   "expDetail": []
   },
   {
    "id": 45,
@@ -2919,7 +3141,8 @@
    "profile": "",
    "expertise": [],
    "themes": [],
-   "country": "Thailand"
+   "country": "Thailand",
+   "expDetail": []
   },
   {
    "id": 46,
@@ -2938,7 +3161,8 @@
    "profile": "",
    "expertise": [],
    "themes": [],
-   "country": "Thailand"
+   "country": "Thailand",
+   "expDetail": []
   },
   {
    "id": 47,
@@ -2956,11 +3180,11 @@
    "orcid": "https://orcid.org/0000-0002-5898-7261",
    "profile": "",
    "expertise": [
-    "Biology",
-    "Coastal Zone Management",
+    "Marine Biology & Ecology",
+    "Coastal Management & Policy",
     "Mangroves",
     "Coastal Ecology",
-    "Molecular Biology"
+    "Genomics & Molecular Biology"
    ],
    "themes": [
     "Aquaculture, Genetics & Biotech",
@@ -2977,7 +3201,7 @@
    },
    "pub": [
     {
-     "t": "Sea-Level Rise Adaptation",
+     "t": "Sea-Level Rise",
      "n": 1
     },
     {
@@ -3010,6 +3234,17 @@
      "t": "Tidal flats & salt marshes",
      "n": 1
     }
+   ],
+   "expDetail": [
+    "Biology",
+    "Coastal Zone Management",
+    "Mangroves",
+    "Coastal Ecology",
+    "Molecular Biology"
+   ],
+   "pubDetail": [
+    "Sea-Level Rise Adaptation",
+    "Mangroves"
    ]
   },
   {
@@ -3041,11 +3276,11 @@
    },
    "pub": [
     {
-     "t": "Macrophyte Photosynthesis",
+     "t": "Marine Ecophysiology",
      "n": 3
     },
     {
-     "t": "Coral Ecophysiology",
+     "t": "Coral Reefs",
      "n": 3
     }
    ],
@@ -3078,6 +3313,11 @@
      "t": "Coral reefs",
      "n": 3
     }
+   ],
+   "expDetail": [],
+   "pubDetail": [
+    "Macrophyte Photosynthesis",
+    "Coral Ecophysiology"
    ]
   },
   {
@@ -3105,7 +3345,8 @@
     "h": 2,
     "probable": false,
     "aff": "Prince of Songkla University"
-   }
+   },
+   "expDetail": []
   },
   {
    "id": 50,
@@ -3133,7 +3374,8 @@
     "probable": false,
     "aff": "Prince of Songkla University",
     "name": "Thammakeerati, Natthida"
-   }
+   },
+   "expDetail": []
   },
   {
    "id": 51,
@@ -3160,7 +3402,8 @@
     "h": 1,
     "probable": false,
     "aff": "Prince of Songkla University"
-   }
+   },
+   "expDetail": []
   },
   {
    "id": 52,
@@ -3179,7 +3422,8 @@
    "profile": "",
    "expertise": [],
    "themes": [],
-   "country": "Thailand"
+   "country": "Thailand",
+   "expDetail": []
   },
   {
    "id": 53,
@@ -3198,7 +3442,8 @@
    "profile": "",
    "expertise": [],
    "themes": [],
-   "country": "Thailand"
+   "country": "Thailand",
+   "expDetail": []
   },
   {
    "id": 54,
@@ -3217,7 +3462,8 @@
    "profile": "",
    "expertise": [],
    "themes": [],
-   "country": "Thailand"
+   "country": "Thailand",
+   "expDetail": []
   },
   {
    "id": 55,
@@ -3236,7 +3482,8 @@
    "profile": "",
    "expertise": [],
    "themes": [],
-   "country": "Thailand"
+   "country": "Thailand",
+   "expDetail": []
   },
   {
    "id": 56,
@@ -3255,7 +3502,8 @@
    "profile": "",
    "expertise": [],
    "themes": [],
-   "country": "Thailand"
+   "country": "Thailand",
+   "expDetail": []
   },
   {
    "id": 57,
@@ -3274,7 +3522,8 @@
    "profile": "",
    "expertise": [],
    "themes": [],
-   "country": "Thailand"
+   "country": "Thailand",
+   "expDetail": []
   },
   {
    "id": 58,
@@ -3293,7 +3542,8 @@
    "profile": "",
    "expertise": [],
    "themes": [],
-   "country": "Thailand"
+   "country": "Thailand",
+   "expDetail": []
   },
   {
    "id": 59,
@@ -3323,20 +3573,16 @@
    },
    "pub": [
     {
-     "t": "Macroalgae",
+     "t": "Macroalgae & Seaweeds",
      "n": 10
     },
     {
-     "t": "Seaweed Bioplastics",
+     "t": "Seaweed Products & Bioplastics",
      "n": 10
     },
     {
-     "t": "Algal Microbiome",
+     "t": "Microbial Ecology",
      "n": 4
-    },
-    {
-     "t": "Seaweed Bioactive Compounds",
-     "n": 3
     }
    ],
    "absCov": [
@@ -3384,6 +3630,13 @@
      "t": "Tidal flats & salt marshes",
      "n": 5
     }
+   ],
+   "expDetail": [],
+   "pubDetail": [
+    "Macroalgae",
+    "Seaweed Bioplastics",
+    "Algal Microbiome",
+    "Seaweed Bioactive Compounds"
    ]
   },
   {
@@ -3411,7 +3664,8 @@
     "h": 0,
     "probable": true,
     "aff": "Burapha University"
-   }
+   },
+   "expDetail": []
   },
   {
    "id": 61,
@@ -3438,7 +3692,8 @@
     "h": 2,
     "probable": false,
     "aff": "Kasetsart University, Kamphaeng Saen Campus"
-   }
+   },
+   "expDetail": []
   },
   {
    "id": 62,
@@ -3465,7 +3720,8 @@
     "h": 2,
     "probable": false,
     "aff": "Kasetsart University"
-   }
+   },
+   "expDetail": []
   },
   {
    "id": 63,
@@ -3484,7 +3740,8 @@
    "profile": "",
    "expertise": [],
    "themes": [],
-   "country": "Thailand"
+   "country": "Thailand",
+   "expDetail": []
   },
   {
    "id": 64,
@@ -3503,7 +3760,8 @@
    "profile": "",
    "expertise": [],
    "themes": [],
-   "country": "Thailand"
+   "country": "Thailand",
+   "expDetail": []
   },
   {
    "id": 65,
@@ -3530,7 +3788,8 @@
     "h": 1,
     "probable": false,
     "aff": "Prince of Songkla University"
-   }
+   },
+   "expDetail": []
   },
   {
    "id": 66,
@@ -3549,7 +3808,8 @@
    "profile": "",
    "expertise": [],
    "themes": [],
-   "country": "Thailand"
+   "country": "Thailand",
+   "expDetail": []
   },
   {
    "id": 67,
@@ -3568,7 +3828,8 @@
    "profile": "",
    "expertise": [],
    "themes": [],
-   "country": "Thailand"
+   "country": "Thailand",
+   "expDetail": []
   },
   {
    "id": 68,
@@ -3598,12 +3859,20 @@
    },
    "pub": [
     {
-     "t": "Seagrass Restoration",
+     "t": "Macroalgae & Seaweeds",
+     "n": 4
+    },
+    {
+     "t": "Microbial Ecology",
+     "n": 4
+    },
+    {
+     "t": "Seagrass",
      "n": 2
     },
     {
-     "t": "Algal Microbiome",
-     "n": 4
+     "t": "Ecosystem Restoration",
+     "n": 2
     },
     {
      "t": "Environmental DNA",
@@ -3643,6 +3912,12 @@
      "t": "Seagrass meadows",
      "n": 1
     }
+   ],
+   "expDetail": [],
+   "pubDetail": [
+    "Seagrass Restoration",
+    "Algal Microbiome",
+    "Environmental DNA"
    ]
   },
   {
@@ -3670,7 +3945,8 @@
     "h": 1,
     "probable": false,
     "aff": "Rajamangala University of Technology Isan"
-   }
+   },
+   "expDetail": []
   },
   {
    "id": 70,
@@ -3689,7 +3965,8 @@
    "profile": "",
    "expertise": [],
    "themes": [],
-   "country": "Thailand"
+   "country": "Thailand",
+   "expDetail": []
   },
   {
    "id": 71,
@@ -3716,7 +3993,8 @@
     "h": 1,
     "probable": false,
     "aff": "Burapha University"
-   }
+   },
+   "expDetail": []
   },
   {
    "id": 72,
@@ -3743,7 +4021,8 @@
     "h": 3,
     "probable": true,
     "aff": "Medical Technology Council of Thailand"
-   }
+   },
+   "expDetail": []
   },
   {
    "id": 73,
@@ -3762,7 +4041,8 @@
    "profile": "",
    "expertise": [],
    "themes": [],
-   "country": "Thailand"
+   "country": "Thailand",
+   "expDetail": []
   },
   {
    "id": 74,
@@ -3781,7 +4061,8 @@
    "profile": "",
    "expertise": [],
    "themes": [],
-   "country": "Thailand"
+   "country": "Thailand",
+   "expDetail": []
   },
   {
    "id": 75,
@@ -3808,7 +4089,8 @@
     "h": 1,
     "probable": false,
     "aff": "Prince of Songkla University"
-   }
+   },
+   "expDetail": []
   },
   {
    "id": 76,
@@ -3836,7 +4118,8 @@
     "probable": false,
     "aff": "Prince of Songkla University",
     "name": "Chooklin, Suksiri"
-   }
+   },
+   "expDetail": []
   },
   {
    "id": 77,
@@ -3863,7 +4146,8 @@
     "h": 2,
     "probable": true,
     "aff": "Universitas Tanjungpura"
-   }
+   },
+   "expDetail": []
   },
   {
    "id": 78,
@@ -3882,7 +4166,8 @@
    "profile": "",
    "expertise": [],
    "themes": [],
-   "country": "Thailand"
+   "country": "Thailand",
+   "expDetail": []
   },
   {
    "id": 79,
@@ -3912,19 +4197,15 @@
    },
    "pub": [
     {
-     "t": "Energy & Environmental Policy",
+     "t": "Environmental Policy & Energy",
      "n": 6
     },
     {
-     "t": "Hydropower",
-     "n": 5
-    },
-    {
-     "t": "Community Forestry",
+     "t": "Community Forestry & Governance",
      "n": 3
     },
     {
-     "t": "Land Cover Change",
+     "t": "Land Use & Land Cover Change",
      "n": 3
     }
    ],
@@ -3957,6 +4238,13 @@
      "t": "Agricultural land",
      "n": 4
     }
+   ],
+   "expDetail": [],
+   "pubDetail": [
+    "Energy & Environmental Policy",
+    "Hydropower",
+    "Community Forestry",
+    "Land Cover Change"
    ]
   },
   {
@@ -3984,7 +4272,8 @@
     "h": 1,
     "probable": true,
     "aff": "Noble Shivapuri Research Institute, Nepal"
-   }
+   },
+   "expDetail": []
   },
   {
    "id": 81,
@@ -4011,7 +4300,8 @@
     "h": 1,
     "probable": true,
     "aff": "Tribhuvan University"
-   }
+   },
+   "expDetail": []
   },
   {
    "id": 82,
@@ -4030,7 +4320,8 @@
    "profile": "",
    "expertise": [],
    "themes": [],
-   "country": "Thailand"
+   "country": "Thailand",
+   "expDetail": []
   },
   {
    "id": 83,
@@ -4049,7 +4340,8 @@
    "profile": "",
    "expertise": [],
    "themes": [],
-   "country": "Thailand"
+   "country": "Thailand",
+   "expDetail": []
   },
   {
    "id": 84,
@@ -4076,7 +4368,8 @@
     "h": 1,
     "probable": true,
     "aff": "Universitas Negeri Malang"
-   }
+   },
+   "expDetail": []
   },
   {
    "id": 85,
@@ -4095,7 +4388,8 @@
    "profile": "",
    "expertise": [],
    "themes": [],
-   "country": "Thailand"
+   "country": "Thailand",
+   "expDetail": []
   },
   {
    "id": 86,
@@ -4122,7 +4416,8 @@
     "h": 1,
     "probable": false,
     "aff": "Prince of Songkla University"
-   }
+   },
+   "expDetail": []
   },
   {
    "id": 87,
@@ -4149,7 +4444,8 @@
     "h": 3,
     "probable": false,
     "aff": "Kyushu University"
-   }
+   },
+   "expDetail": []
   },
   {
    "id": 88,
@@ -4176,7 +4472,8 @@
     "h": 13,
     "probable": false,
     "aff": "Kasetsart University"
-   }
+   },
+   "expDetail": []
   },
   {
    "id": 89,
@@ -4206,20 +4503,12 @@
    },
    "pub": [
     {
-     "t": "Tropical Forest Ecology",
+     "t": "Forest Ecology & Management",
      "n": 17
     },
     {
-     "t": "Forest Restoration",
+     "t": "Ecosystem Restoration",
      "n": 6
-    },
-    {
-     "t": "Species Distribution Modelling",
-     "n": 3
-    },
-    {
-     "t": "Fire Ecology",
-     "n": 3
     }
    ],
    "absCov": [
@@ -4255,6 +4544,122 @@
      "t": "Tropical forests",
      "n": 32
     }
+   ],
+   "expDetail": [],
+   "pubDetail": [
+    "Tropical Forest Ecology",
+    "Forest Restoration",
+    "Species Distribution Modelling",
+    "Fire Ecology"
+   ]
+  },
+  {
+   "id": 90,
+   "title": "",
+   "name": "Milica Stankovic",
+   "nameTh": "",
+   "pending": false,
+   "org": "Prince of Songkla University",
+   "orgShort": "PSU",
+   "orgFull": "Prince of Songkla University",
+   "faculty": "Science",
+   "dept": "",
+   "position": "Lecturer",
+   "email": "milica.s@psu.ac.th",
+   "orcid": "https://orcid.org/0000-0003-1844-8121",
+   "profile": "",
+   "expertise": [],
+   "themes": [],
+   "country": "Thailand",
+   "scopusId": "55953790400",
+   "added": "Added 2 Oct 2026 (not in the registration sheet)",
+   "pub": [
+    {
+     "t": "Seagrass",
+     "n": 25
+    },
+    {
+     "t": "Blue Carbon",
+     "n": 20
+    },
+    {
+     "t": "Ecosystem Restoration",
+     "n": 4
+    },
+    {
+     "t": "Remote Sensing & GIS",
+     "n": 4
+    },
+    {
+     "t": "Marine Megafauna",
+     "n": 3
+    }
+   ],
+   "absCov": [
+    17,
+    33
+   ],
+   "methods": [
+    {
+     "t": "Carbon stock assessment",
+     "n": 23
+    },
+    {
+     "t": "Greenhouse gas flux measurement",
+     "n": 5
+    },
+    {
+     "t": "Satellite remote sensing",
+     "n": 4
+    },
+    {
+     "t": "UAV / drone surveys",
+     "n": 3
+    },
+    {
+     "t": "Sediment cores & dating",
+     "n": 3
+    }
+   ],
+   "areas": [
+    {
+     "t": "Andaman Sea (Thailand)",
+     "n": 9
+    },
+    {
+     "t": "Southeast Asia (regional)",
+     "n": 3
+    }
+   ],
+   "ecos": [
+    {
+     "t": "Seagrass meadows",
+     "n": 29
+    },
+    {
+     "t": "Mangroves",
+     "n": 4
+    },
+    {
+     "t": "Tidal flats & salt marshes",
+     "n": 4
+    }
+   ],
+   "scopus": {
+    "id": "55953790400",
+    "docs": 26,
+    "cites": 624,
+    "h": 12,
+    "probable": false,
+    "aff": "Prince of Songkla University"
+   },
+   "expDetail": [],
+   "pubDetail": [
+    "Seagrass",
+    "Blue Carbon",
+    "Seagrass Restoration",
+    "Remote Sensing",
+    "Dugong"
    ]
   }
  ],
@@ -4267,125 +4672,106 @@
   "Forests, Land & Society"
  ],
  "tagTheme": {
-  "Sensing Systems": "Remote Sensing & Data",
-  "Multimedia Analysis": "Remote Sensing & Data",
-  "Deep Learning": "Remote Sensing & Data",
-  "Rivers": "Ocean & Climate",
-  "Earth Science": "Ocean & Climate",
-  "Physical Geography": "Ocean & Climate",
-  "Urban Development": "Remote Sensing & Data",
-  "Remote Sensing": "Remote Sensing & Data",
-  "Climate Change": "Ocean & Climate",
-  "Soil": "Ocean & Climate",
-  "Heavy Metal Pollution": "Pollution & Environmental Chemistry",
-  "Precipitation": "Ocean & Climate",
-  "Oceanography": "Ocean & Climate",
-  "Nutrient Cycling": "Ocean & Climate",
-  "Numerical Modeling": "Ocean & Climate",
+  "Climate Change & Adaptation": "Ocean & Climate",
+  "Sea-Level Rise": "Ocean & Climate",
   "Physical Oceanography": "Ocean & Climate",
-  "Ocean Modeling": "Ocean & Climate",
-  "Data Assimilation": "Ocean & Climate",
-  "Estuaries": "Ocean & Climate",
-  "Genomics": "Aquaculture, Genetics & Biotech",
-  "Quantitative Genetics": "Aquaculture, Genetics & Biotech",
-  "Genetic Improvement": "Aquaculture, Genetics & Biotech",
-  "Selective Breeding": "Aquaculture, Genetics & Biotech",
-  "DNA Markers": "Aquaculture, Genetics & Biotech",
-  "Ecology": "Coastal Ecosystems & Blue Carbon",
-  "Genetics": "Aquaculture, Genetics & Biotech",
-  "Biochemistry": "Pollution & Environmental Chemistry",
-  "Environmental Chemistry": "Pollution & Environmental Chemistry",
-  "Microplastics": "Pollution & Environmental Chemistry",
-  "Marine Pollution": "Pollution & Environmental Chemistry",
-  "Coral Reefs": "Coastal Ecosystems & Blue Carbon",
-  "Stem Cell Biology": "Aquaculture, Genetics & Biotech",
-  "Cell Culture": "Aquaculture, Genetics & Biotech",
-  "PCR": "Aquaculture, Genetics & Biotech",
-  "Flow Cytometry": "Aquaculture, Genetics & Biotech",
-  "Gene Expression": "Aquaculture, Genetics & Biotech",
-  "Cryobiology": "Aquaculture, Genetics & Biotech",
-  "Cryopreservation": "Aquaculture, Genetics & Biotech",
-  "Seagrass Restoration": "Coastal Ecosystems & Blue Carbon",
-  "Aquaculture Genetics": "Aquaculture, Genetics & Biotech",
-  "Blue Carbon": "Coastal Ecosystems & Blue Carbon",
-  "Marine Ecophysiology": "Coastal Ecosystems & Blue Carbon",
-  "Chemical Oceanography": "Ocean & Climate",
-  "Geoinformatics": "Remote Sensing & Data",
-  "Environmental Monitoring": "Pollution & Environmental Chemistry",
-  "Mangroves": "Coastal Ecosystems & Blue Carbon",
-  "Aquaculture": "Aquaculture, Genetics & Biotech",
-  "Marine Biology": "Coastal Ecosystems & Blue Carbon",
-  "Coral Ecophysiology": "Coastal Ecosystems & Blue Carbon",
-  "Marine Biogeochemistry": "Ocean & Climate",
-  "Air–Sea Interactions": "Ocean & Climate",
-  "Micrometeorology": "Ocean & Climate",
-  "AI & Machine Learning": "Remote Sensing & Data",
-  "Data Science": "Remote Sensing & Data",
-  "IoT": "Remote Sensing & Data",
-  "GIS": "Remote Sensing & Data",
-  "Mangrove Restoration": "Coastal Ecosystems & Blue Carbon",
-  "Analytical Chemistry": "Pollution & Environmental Chemistry",
-  "Environmental Science": "Coastal Ecosystems & Blue Carbon",
-  "Marine Ecosystems": "Ocean & Climate",
-  "Evolutionary Genetics": "Aquaculture, Genetics & Biotech",
-  "Climate Adaptation": "Ocean & Climate",
-  "Conservation Genetics": "Aquaculture, Genetics & Biotech",
-  "Aquatic Animal Genetics": "Aquaculture, Genetics & Biotech",
-  "Biology": "Coastal Ecosystems & Blue Carbon",
-  "Coastal Zone Management": "Coastal Ecosystems & Blue Carbon",
-  "Coastal Ecology": "Coastal Ecosystems & Blue Carbon",
-  "Molecular Biology": "Aquaculture, Genetics & Biotech",
-  "Tsunami & Earthquake Geology": "Ocean & Climate",
+  "Ocean & Environmental Modelling": "Ocean & Climate",
   "Paleoclimate": "Ocean & Climate",
-  "Tropical Cyclones": "Ocean & Climate",
-  "Sea Surface Temperature": "Ocean & Climate",
-  "Gulf of Thailand Hydrography": "Ocean & Climate",
-  "Phytoplankton": "Ocean & Climate",
-  "Atmospheric Aerosols": "Ocean & Climate",
-  "Mercury Biogeochemistry": "Ocean & Climate",
-  "Sea-Level Rise Adaptation": "Ocean & Climate",
-  "Robot Navigation": "Remote Sensing & Data",
-  "Recommender Systems": "Remote Sensing & Data",
-  "Hyperspectral Imaging": "Remote Sensing & Data",
-  "Image Fusion": "Remote Sensing & Data",
-  "Image Denoising": "Remote Sensing & Data",
-  "Vegetation Phenology": "Remote Sensing & Data",
-  "Ocean Colour Remote Sensing": "Remote Sensing & Data",
-  "Disaster Management": "Remote Sensing & Data",
+  "Coastal Hazards": "Ocean & Climate",
+  "Marine Biogeochemistry": "Ocean & Climate",
+  "Phytoplankton & Marine Ecosystems": "Ocean & Climate",
+  "Hydrology & Earth Science": "Ocean & Climate",
+  "Atmosphere & Air–Sea Interactions": "Ocean & Climate",
+  "Remote Sensing & GIS": "Remote Sensing & Data",
+  "Image & Signal Processing": "Remote Sensing & Data",
+  "AI & Data Science": "Remote Sensing & Data",
+  "Sensors & IoT": "Remote Sensing & Data",
   "Epidemic Modelling": "Remote Sensing & Data",
+  "Mangroves": "Coastal Ecosystems & Blue Carbon",
   "Seagrass": "Coastal Ecosystems & Blue Carbon",
-  "Coral Reef Restoration": "Coastal Ecosystems & Blue Carbon",
-  "Symbiodinium": "Coastal Ecosystems & Blue Carbon",
-  "Coral Microbiome": "Coastal Ecosystems & Blue Carbon",
-  "Macroalgae": "Coastal Ecosystems & Blue Carbon",
-  "Macrophyte Photosynthesis": "Coastal Ecosystems & Blue Carbon",
-  "Dugong": "Coastal Ecosystems & Blue Carbon",
-  "Sea Cucumbers": "Coastal Ecosystems & Blue Carbon",
-  "Marine Invertebrate Ecology": "Coastal Ecosystems & Blue Carbon",
-  "Crustacean & Fish Ecology": "Coastal Ecosystems & Blue Carbon",
-  "Algal Microbiome": "Coastal Ecosystems & Blue Carbon",
-  "Nanoplastics": "Pollution & Environmental Chemistry",
-  "Marine Debris": "Pollution & Environmental Chemistry",
-  "Bioremediation": "Pollution & Environmental Chemistry",
-  "Disease Resistance": "Aquaculture, Genetics & Biotech",
-  "Aquatic Animal Health": "Aquaculture, Genetics & Biotech",
-  "Sex Determination & Epigenetics": "Aquaculture, Genetics & Biotech",
+  "Coral Reefs": "Coastal Ecosystems & Blue Carbon",
+  "Blue Carbon": "Coastal Ecosystems & Blue Carbon",
+  "Ecosystem Restoration": "Coastal Ecosystems & Blue Carbon",
+  "Marine Ecophysiology": "Coastal Ecosystems & Blue Carbon",
+  "Macroalgae & Seaweeds": "Coastal Ecosystems & Blue Carbon",
+  "Microbial Ecology": "Coastal Ecosystems & Blue Carbon",
+  "Coastal Ecology": "Coastal Ecosystems & Blue Carbon",
+  "Marine Biology & Ecology": "Coastal Ecosystems & Blue Carbon",
+  "Marine Megafauna": "Coastal Ecosystems & Blue Carbon",
+  "Coastal Management & Policy": "Coastal Ecosystems & Blue Carbon",
+  "Microplastics & Marine Debris": "Pollution & Environmental Chemistry",
+  "Heavy Metals & Mercury": "Pollution & Environmental Chemistry",
+  "Pollution Monitoring": "Pollution & Environmental Chemistry",
+  "Environmental & Analytical Chemistry": "Pollution & Environmental Chemistry",
+  "Aquaculture Breeding & Genetics": "Aquaculture, Genetics & Biotech",
+  "Aquaculture & Animal Health": "Aquaculture, Genetics & Biotech",
+  "Genomics & Molecular Biology": "Aquaculture, Genetics & Biotech",
   "Environmental DNA": "Aquaculture, Genetics & Biotech",
-  "Seaweed Bioplastics": "Aquaculture, Genetics & Biotech",
-  "Seaweed Bioactive Compounds": "Aquaculture, Genetics & Biotech",
-  "Forest Disturbance Ecology": "Forests, Land & Society",
-  "Forest Management": "Forests, Land & Society",
-  "Fire Ecology": "Forests, Land & Society",
-  "Community Forestry": "Forests, Land & Society",
-  "Plantation Silviculture": "Forests, Land & Society",
-  "Energy & Environmental Policy": "Forests, Land & Society",
-  "Hydropower": "Forests, Land & Society",
-  "Land Cover Change": "Forests, Land & Society",
-  "Tropical Forest Ecology": "Forests, Land & Society",
-  "Forest Restoration": "Forests, Land & Society",
-  "Species Distribution Modelling": "Forests, Land & Society",
-  "Carbon & Water Fluxes": "Forests, Land & Society",
-  "Pollen & Aerobiology": "Forests, Land & Society",
-  "Drought": "Forests, Land & Society"
+  "Cryopreservation & Cell Biology": "Aquaculture, Genetics & Biotech",
+  "Seaweed Products & Bioplastics": "Aquaculture, Genetics & Biotech",
+  "Forest Ecology & Management": "Forests, Land & Society",
+  "Community Forestry & Governance": "Forests, Land & Society",
+  "Environmental Policy & Energy": "Forests, Land & Society",
+  "Ecosystem Carbon & Water Fluxes": "Forests, Land & Society",
+  "Aerobiology & Pollen": "Forests, Land & Society",
+  "Land Use & Land Cover Change": "Forests, Land & Society"
+ },
+ "taxonomy": "v2",
+ "topicMap": {
+  "Ocean & Climate": [
+   "Climate Change & Adaptation",
+   "Sea-Level Rise",
+   "Physical Oceanography",
+   "Ocean & Environmental Modelling",
+   "Paleoclimate",
+   "Coastal Hazards",
+   "Marine Biogeochemistry",
+   "Phytoplankton & Marine Ecosystems",
+   "Hydrology & Earth Science",
+   "Atmosphere & Air–Sea Interactions"
+  ],
+  "Remote Sensing & Data": [
+   "Remote Sensing & GIS",
+   "Image & Signal Processing",
+   "AI & Data Science",
+   "Sensors & IoT",
+   "Epidemic Modelling"
+  ],
+  "Coastal Ecosystems & Blue Carbon": [
+   "Mangroves",
+   "Seagrass",
+   "Coral Reefs",
+   "Blue Carbon",
+   "Ecosystem Restoration",
+   "Marine Ecophysiology",
+   "Macroalgae & Seaweeds",
+   "Microbial Ecology",
+   "Coastal Ecology",
+   "Marine Biology & Ecology",
+   "Marine Megafauna",
+   "Coastal Management & Policy"
+  ],
+  "Pollution & Environmental Chemistry": [
+   "Microplastics & Marine Debris",
+   "Heavy Metals & Mercury",
+   "Pollution Monitoring",
+   "Environmental & Analytical Chemistry"
+  ],
+  "Aquaculture, Genetics & Biotech": [
+   "Aquaculture Breeding & Genetics",
+   "Aquaculture & Animal Health",
+   "Genomics & Molecular Biology",
+   "Environmental DNA",
+   "Cryopreservation & Cell Biology",
+   "Seaweed Products & Bioplastics"
+  ],
+  "Forests, Land & Society": [
+   "Forest Ecology & Management",
+   "Community Forestry & Governance",
+   "Environmental Policy & Energy",
+   "Ecosystem Carbon & Water Fluxes",
+   "Aerobiology & Pollen",
+   "Land Use & Land Cover Change"
+  ]
  }
 }

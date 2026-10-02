@@ -4,7 +4,7 @@ Interactive directory and expertise network for the **Reinventing the Blue Lens*
 
 Developed for the Faculty of Environmental Management, PSU, and the Coastal Oceanography and Climate Change Research Center (COCC).
 
-**Live site:** https://cponlachart.github.io/blue-lens-network/
+**Live site:** https://OWNER.github.io/blue-lens-network/
 
 ## Features
 - Search researchers by name, expertise, institution or faculty. Small typos still match.
@@ -12,7 +12,9 @@ Developed for the Faculty of Environmental Management, PSU, and the Coastal Ocea
 - Card and table views, researcher profiles, and suggestions for researchers with related expertise.
 - Scopus metrics (h-index, documents, citations) where a Scopus author profile was found.
 - Research topics from publications, auto-classified from OpenAlex records (2018–2026) and shown separately from self-reported expertise.
+- Topics are organised as 43 topics under 6 research themes.
 - Interactive expertise network. Turn themes, topic sources and institutions on or off, set a minimum number of shared researchers per topic, and find a researcher or topic on the map.
+- **Team Builder**: pick the topics, methods, study areas or ecosystems a project needs and get a proposed cross-institution team, a coverage matrix and alternates.
 - Overview charts and a profile-completeness summary.
 - Light and dark themes. CSV export of the current selection.
 
