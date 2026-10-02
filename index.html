@@ -290,6 +290,39 @@ button.name.linkish{font-family:var(--f-display);font-weight:700;font-size:17px}
 .tb-mx tr.gap{background:var(--warn-bg)}
 .gapnote{margin:10px 0 0;color:var(--warn-ink)}
 @media (max-width:900px){.tb-grid{grid-template-columns:1fr}.tb-side{position:static}}
+
+.gap-panel{display:grid;gap:12px}
+.gap-head{display:flex;flex-wrap:wrap;gap:12px 24px;justify-content:space-between;align-items:flex-start}
+.gap-head .sub{margin:0;max-width:70ch}
+.gap-ctl{display:flex;gap:8px;flex-wrap:wrap}
+.gap-legend{display:flex;flex-wrap:wrap;gap:6px 14px;align-items:center;font-size:12px;color:var(--ink-2)}
+.gl{display:inline-flex;align-items:center;gap:5px}
+.gl i.hm{width:16px;height:12px;border-radius:3px;display:inline-block;padding:0}
+table.gap{min-width:640px;font-size:13px}
+table.gap th,table.gap td{padding:5px 8px;border-bottom:1px solid var(--line)}
+table.gap td.num,table.gap th.num{text-align:center;width:76px}
+table.gap td.tot{font-family:var(--f-mono);color:var(--ink-2)}
+table.gap tr.gh td{background:var(--surface-2);font-weight:700;font-family:var(--f-display);font-size:13.5px;padding-top:8px}
+table.gap tr.gh td .dot{margin-right:8px}
+.gl-l{display:flex;align-items:center;gap:8px}
+.hm{width:100%;min-width:44px;border:0;border-radius:4px;padding:5px 0;font:600 13px var(--f-mono);cursor:pointer;color:var(--ink)}
+.hm:disabled{cursor:default}
+.hm.b0{background:transparent;color:var(--ink-3);box-shadow:inset 0 0 0 1px var(--line)}
+.hm.b1{background:color-mix(in srgb,var(--accent) 14%,var(--surface))}
+.hm.b2{background:color-mix(in srgb,var(--accent) 30%,var(--surface))}
+.hm.b3{background:color-mix(in srgb,var(--accent) 55%,var(--surface));color:var(--accent-ink)}
+.hm.b4{background:var(--accent);color:var(--accent-ink)}
+.hm:not(:disabled):hover{outline:2px solid var(--ink);outline-offset:1px}
+.gtag{font-size:11px;font-weight:600;border-radius:4px;padding:1px 6px;white-space:nowrap;border:1px solid var(--line-strong);color:var(--ink-2)}
+.gtag.one,.gtag.none,.gtag.thin{background:var(--warn-bg);color:var(--warn-ink);border-color:transparent}
+.gtag.intl{border-style:dashed}
+.gtag.solo{border-style:dotted}
+.gtag.all3{background:var(--accent-soft);color:var(--ink);border-color:transparent}
+.gap-ins{display:grid;grid-template-columns:repeat(2,minmax(0,1fr));gap:16px 24px;border-top:1px solid var(--line);padding-top:14px}
+.gap-ins h4{margin:0 0 2px;font-size:13px;font-family:var(--f-display)}
+.gap-ins .note{margin:0 0 8px}
+.gapkv{grid-template-columns:90px minmax(0,1fr);font-size:13px}
+@media (max-width:760px){.gap-ins{grid-template-columns:1fr}}
 @media (max-width:900px){
   .hero .wrap{grid-template-columns:1fr;gap:28px}
   .lens{display:grid;grid-template-columns:150px minmax(0,1fr);gap:20px;align-items:center;width:100%;justify-self:stretch}
@@ -489,6 +522,18 @@ button.name.linkish{font-family:var(--f-display);font-weight:700;font-size:17px}
   <section id="overview" role="tabpanel" aria-labelledby="tab-overview" hidden>
     <div class="ov">
       <div><h2>Network Overview</h2><p class="ov-intro">Who is in the network and where the profile data still has gaps. Click any bar to open the directory filtered to that group.</p></div>
+      <div class="panel gap-panel" id="gapPanel">
+        <div class="gap-head">
+          <div><h3>Capacity &amp; gaps by institution</h3><p class="sub">Researchers per research area at each institution, from self-reported expertise and publication topics. Pale or empty cells show thin coverage. Click a cell to list the people.</p></div>
+          <div class="gap-ctl">
+            <div class="seg-ctl" role="group" aria-label="Level" id="gapLevel"><button type="button" data-v="theme" aria-pressed="true">Themes</button><button type="button" data-v="topic" aria-pressed="false">Topics</button></div>
+            <div class="seg-ctl" role="group" aria-label="Who to count" id="gapWho"><button type="button" data-v="all" aria-pressed="true">All members</button><button type="button" data-v="senior" aria-pressed="false">Staff only</button></div>
+          </div>
+        </div>
+        <div class="gap-legend" id="gapLegend"></div>
+        <div class="tablewrap gap-wrap" style="border:0"><table class="gap" id="gapTable"></table></div>
+        <div class="gap-ins" id="gapIns"></div>
+      </div>
       <div class="ov-grid" id="ovGrid"></div>
     </div>
   </section>
@@ -1066,9 +1111,71 @@ function renderTeam(){
     </div>`;
 }
 
+
+/* ---------- gap analysis ---------- */
+const GAP = { level:'theme', who:'all' };
+const GAP_COLS = [['PSU','Prince of Songkla University'],['KU','Kasetsart University'],['CU','Chulalongkorn University'],['Other Thai','Other Thai organizations'],['International','International partners']];
+const CORE = new Set(['Prince of Songkla University','Kasetsart University','Chulalongkorn University']);
+const isStaff = p => !['Student',"Master's Student",'Ph.D. Candidate','Research Assistant','Alumni'].includes(p.position) && (!!p.position || !!p.scopus);
+const BINS = [[0,0,'0'],[1,1,'1'],[2,2,'2'],[3,4,'3–4'],[5,1e9,'5+']];
+const binOf = n => BINS.findIndex(b => n>=b[0] && n<=b[1]);
+function renderGap(){
+  const pool = P.filter(p => p.expertise.length && (GAP.who==='all' || isStaff(p)));
+  const topicsByTheme = DATA.topicMap || {};
+  const rows = [];
+  THEMES.forEach(th => {
+    if (GAP.level==='theme') rows.push({kind:'theme', key:th, label:th, has:p=>p.themes.includes(th)});
+    else { rows.push({kind:'head', label:th}); (topicsByTheme[th]||[]).forEach(t => rows.push({kind:'topic', key:t, theme:th, label:t, has:p=>p.expertise.includes(t)})); }
+  });
+  const cell = (r, g) => pool.filter(p => p.group===g && r.has(p)).length;
+  const tag = r => { const core = pool.filter(p => CORE.has(p.group) && r.has(p)).length, intl = pool.filter(p => p.group==='International partners' && r.has(p)).length, all = pool.filter(r.has).length;
+    if (!all) return ['none','Not covered'];
+    if (!core && intl) return ['intl','International only'];
+    if (!core) return ['thin','Not at PSU/KU/CU'];
+    if (core===1) return ['one','1 person at PSU/KU/CU'];
+    const inst = new Set(pool.filter(p => CORE.has(p.group) && r.has(p)).map(p=>p.group)).size;
+    if (inst===3) return ['all3','At all three'];
+    if (inst===1){ const g=pool.find(p => CORE.has(p.group) && r.has(p)).group; return ['solo','Only at '+({'Prince of Songkla University':'PSU','Kasetsart University':'KU','Chulalongkorn University':'CU'})[g]]; }
+    return ['',''];
+  };
+  $('#gapLegend').innerHTML = `<span class="note">Researchers:</span>${BINS.map((b,i)=>`<span class="gl"><i class="hm b${i}"></i>${b[2]}</span>`).join('')}<span class="gl"><span class="gtag one">1 person at PSU/KU/CU</span></span><span class="gl"><span class="gtag solo">Only at one university</span></span><span class="gl"><span class="gtag intl">International only</span></span><span class="gl"><span class="gtag all3">At all three</span></span>`;
+  $('#gapTable').innerHTML = `<thead><tr><th>${GAP.level==='theme'?'Research theme':'Topic'}</th>${GAP_COLS.map(c=>`<th class="num">${c[0]}</th>`).join('')}<th class="num">Total</th><th>Signal</th></tr></thead><tbody>${rows.map(r => {
+    if (r.kind==='head') return `<tr class="gh"><td colspan="${GAP_COLS.length+3}"><span class="dot" style="background:${themeVar(r.label)}"></span>${esc(r.label)}</td></tr>`;
+    const tot = pool.filter(r.has).length; const [tc,tl] = tag(r);
+    return `<tr><td class="gl-l">${r.kind==='theme'?`<span class="dot" style="background:${themeVar(r.key)}"></span>`:''}${esc(r.label)}</td>${GAP_COLS.map(([s,g])=>{ const n=cell(r,g); return `<td class="num"><button type="button" class="hm b${binOf(n)}" data-gk="${r.kind}" data-gv="${esc(r.key)}" data-gg="${esc(g)}" title="${esc(r.label)} · ${s}: ${n} researcher${n===1?'':'s'}" ${n?'':'disabled'}>${n||'·'}</button></td>`; }).join('')}<td class="num tot">${tot}</td><td>${tl?`<span class="gtag ${tc}">${tl}</span>`:''}</td></tr>`;
+  }).join('')}</tbody>`;
+  // insights at topic level, always
+  const topics = THEMES.flatMap(th => (topicsByTheme[th]||[]).map(t => ({t, th, has:p=>p.expertise.includes(t)})));
+  const coreN = x => pool.filter(p => CORE.has(p.group) && x.has(p));
+  const onlyIntl = topics.filter(x => !coreN(x).length && pool.some(p => p.group==='International partners' && x.has(p)));
+  const single = topics.filter(x => coreN(x).length===1);
+  const all3 = topics.filter(x => new Set(coreN(x).map(p=>p.group)).size===3);
+  const strong = GAP_COLS.slice(0,3).map(([s,g]) => [s, topics.map(x=>[x.t, pool.filter(p=>p.group===g && x.has(p)).length]).filter(z=>z[1]>0).sort((a,b)=>b[1]-a[1]).slice(0,3)]);
+  const chip = (x, extra='') => `<button type="button" class="chip" data-gotopic="${esc(x.t)}">${esc(x.t)}${extra}</button>`;
+  $('#gapIns').innerHTML = `
+    <div><h4>Partner opportunities <span class="h4n">only international partners</span></h4><p class="note">Expertise the three core universities lack but partners have.</p><div class="tagcloud">${onlyIntl.map(x=>chip(x, ` <span class="mono" style="opacity:.6">${pool.filter(p=>p.group==='International partners'&&x.has(p)).map(p=>p.name.split(' ').slice(-1)[0]).join(', ')}</span>`)).join('')||'<span class="note">None</span>'}</div></div>
+    <div><h4>Key-person risk <span class="h4n">1 person at PSU/KU/CU</span></h4><p class="note">Areas that depend on a single core researcher. These are candidates for hiring, students or co-supervision.</p><div class="tagcloud">${single.map(x=>chip(x, ` <span class="mono" style="opacity:.6">${esc(coreN(x)[0].name.split(' ').slice(-1)[0])}</span>`)).join('')||'<span class="note">None</span>'}</div></div>
+    <div><h4>Shared strengths <span class="h4n">at all three</span></h4><p class="note">Topics where PSU, KU and CU each have people. Ready for joint proposals.</p><div class="tagcloud">${all3.map(x=>chip(x)).join('')||'<span class="note">None yet</span>'}</div></div>
+    <div><h4>Top areas by institution</h4><dl class="kv gapkv">${strong.map(([s,l])=>`<dt>${s}</dt><dd>${l.map(z=>`${esc(z[0])} <span class="mono">${z[1]}</span>`).join(' · ')||'—'}</dd>`).join('')}</dl></div>`;
+}
+function initGap(){
+  const seg = (id,key) => $(id).addEventListener('click', e => { const b=e.target.closest('[data-v]'); if(!b) return; GAP[key]=b.dataset.v; [...$(id).children].forEach(x=>x.setAttribute('aria-pressed', x===b)); renderGap(); });
+  seg('#gapLevel','level'); seg('#gapWho','who');
+  $('#gapPanel').addEventListener('click', e => {
+    const c = e.target.closest('[data-gk]'), t = e.target.closest('[data-gotopic]');
+    if (!c && !t) return;
+    ['themes','tags','orgs','positions','countries','areas','ecos','flags'].forEach(k=>S[k].clear()); S.q=''; $('#q').value='';
+    if (c){ (c.dataset.gk==='theme' ? S.themes : S.tags).add(c.dataset.gv); S.orgs.add(c.dataset.gg); }
+    else S.tags.add(t.dataset.gotopic);
+    showTab('directory'); render(); window.scrollTo({top: $('.tabs').offsetTop, behavior:'smooth'});
+  });
+  renderGap();
+}
+
 /* ---------- boot ---------- */
 setView(S.view);
 render();
+initGap();
 const h = (location.hash||'').slice(1); if (TABS.includes(h)) showTab(h, false);
 </script>
 </body></html>
